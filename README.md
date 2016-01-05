@@ -59,7 +59,6 @@ Posts
 - [Fluent Pagination - no more jumpy scrolling](http://www.iosnomad.com/blog/2014/4/21/fluent-pagination)
 - [AdvancedCollectionView](https://github.com/zwaldowski/AdvancedCollectionView)
 - [iOS: UITableView controller](http://blog.mobiledev.pl/2014/01/12/uitableview-controller/)
-- [DTTableViewManager](https://github.com/DenHeadless/DTTableViewManager)
 - [Nestable](http://khanlou.com/2015/04/nestable/)
 - [Advanced UITableViews Made Simple: YLTableView](http://engineeringblog.yelp.com/2015/06/advanced-uitableviews-made-simple-yltableview.html)
 
@@ -69,3 +68,4 @@ Repos
 - [RLDTableViewSuite](https://github.com/rlopezdiez/RLDTableViewSuite) Reusable table view controller, data source and delegate for all your UITableView needs
 - [PagedArray](https://github.com/MrAlek/PagedArray)
 - [ReadingList](https://github.com/gonzalezreal/ReadingList)
+- [DTTableViewManager](https://github.com/DenHeadless/DTTableViewManager)
