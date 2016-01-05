@@ -10,7 +10,7 @@ Posts
 - [Clean Cocoa](http://www.fantageek.com/blog/2015/12/03/clean-cocoa/)
 - [Flow Controllers on iOS for a Better Navigation Control](http://albertodebortoli.github.io/blog/2014/09/03/flow-controllers-on-ios-for-a-better-navigation-control/)
 - [iOS Development: You're Doing It Wrong](http://doing-it-wrong.mikeweller.com/2013/06/ios-app-architecture-and-tdd-1.html)
-- [http://jpellat.com/how-to-separate-view-controllers-from-his-view-logic/](http://jpellat.com/how-to-separate-view-controllers-from-his-view-logic/)
+- [How to separate view controllers from their view logic](http://jpellat.com/how-to-separate-view-controllers-from-his-view-logic/)
 - [8 Patterns to Help You Destroy Massive View Controller](http://khanlou.com/2014/09/8-patterns-to-help-you-destroy-massive-view-controller/)
 - [API Design](http://mattgemmell.com/api-design/)
 - [Intentions](http://chris.eidhof.nl/posts/intentions.html)
