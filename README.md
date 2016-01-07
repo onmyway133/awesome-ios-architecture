@@ -66,6 +66,6 @@ Repos
 --
 
 - [RLDTableViewSuite](https://github.com/rlopezdiez/RLDTableViewSuite) Reusable table view controller, data source and delegate for all your UITableView needs
-- [PagedArray](https://github.com/MrAlek/PagedArray)
-- [ReadingList](https://github.com/gonzalezreal/ReadingList)
-- [DTTableViewManager](https://github.com/DenHeadless/DTTableViewManager)
+- [PagedArray](https://github.com/MrAlek/PagedArray) A Swift data structure for easier pagination
+- [ReadingList](https://github.com/gonzalezreal/ReadingList) An example on using the Mantle Modeling Framework with Overcoat AFNetworking extension.
+- [DTTableViewManager](https://github.com/DenHeadless/DTTableViewManager) Protocol-oriented UITableView management, powered by generics and associated types.
