@@ -43,6 +43,14 @@ VIPER
 - [iOS Architecture Patterns Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.tliwdfd60)
 
 
+MVVM
+--
+
+- [Introduction to MVVM](https://www.objc.io/issues/13-architecture/mvvm/)
+- [MVVM is Not Very Good](http://khanlou.com/2015/12/mvvm-is-not-very-good/)
+- [Simplification Of IOS View Controllers: MVVM Or Presentation Controls?](http://blog.xebia.com/simplification-of-ios-view-controllers-mvvm-or-presentation-controls/)
+- [On MVVM, and Architecture Questions](http://twocentstudios.com/2014/06/08/on-mvvm-and-architecture-questions/)
+
 Repos
 --
 
