@@ -31,6 +31,7 @@ Videos
 --
 
 - [Platformizing UI code](https://www.youtube.com/watch?v=TCPWckSi0Xs&feature=youtu.be)
+- [The State of Statelessness](https://realm.io/news/pragma-hannes-verlinde-statelessness-react-native/)
 
 VIPER
 --
@@ -63,6 +64,7 @@ Repos
 - [CleanStore](https://github.com/Clean-Swift/CleanStore) A sample iOS app built using the Clean Swift architecture
 - [Delta](https://github.com/thoughtbot/Delta) Delta takes an app that has custom state management spread throughout all the VCs and simplifies it by providing a simple interface to change state and subscribe to its changes.
 - [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
+- [Swift-Flow-Router](https://github.com/Swift-Flow/Swift-Flow-Router) Declarative Routing in Swift, Extension for Swift Flow
 
 Data Source
 ==
