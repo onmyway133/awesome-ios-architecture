@@ -32,6 +32,7 @@ Videos
 
 - [Platformizing UI code](https://www.youtube.com/watch?v=TCPWckSi0Xs&feature=youtu.be)
 - [The State of Statelessness](https://realm.io/news/pragma-hannes-verlinde-statelessness-react-native/)
+- [Unidirectional Data Flow in Swift: An Alternative to Massive View Controllers](https://realm.io/news/benji-encz-unidirectional-data-flow-swift/)
 
 VIPER
 --
