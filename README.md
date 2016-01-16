@@ -87,6 +87,7 @@ Posts
 Repos
 --
 
+- [Mensa](https://github.com/jordanekay/Mensa) Smart, modern table and collection views on iOS.
 - [RLDTableViewSuite](https://github.com/rlopezdiez/RLDTableViewSuite) Reusable table view controller, data source and delegate for all your UITableView needs
 - [PagedArray](https://github.com/MrAlek/PagedArray) A Swift data structure for easier pagination
 - [ReadingList](https://github.com/gonzalezreal/ReadingList) An example on using the Mantle Modeling Framework with Overcoat AFNetworking extension.
