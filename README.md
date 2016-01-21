@@ -67,7 +67,7 @@ Repos
 - [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
 - [Swift-Flow](https://github.com/Swift-Flow/Swift-Flow) Unidirectional Data Flow in Swift
 - [ReduxKit](https://github.com/ReduxKit/ReduxKit) Redux for Swift - a predictable state container for Swift apps
-
+- [ReSwift](https://github.com/ReSwift/ReSwift) Unidirectional Data Flow in Swift - Inspired by Redux
 
 Data Source
 ==
