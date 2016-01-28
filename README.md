@@ -58,6 +58,12 @@ MVVM
 - [Simplification Of IOS View Controllers: MVVM Or Presentation Controls?](http://blog.xebia.com/simplification-of-ios-view-controllers-mvvm-or-presentation-controls/)
 - [On MVVM, and Architecture Questions](http://twocentstudios.com/2014/06/08/on-mvvm-and-architecture-questions/)
 
+Frameworks
+--
+
+- [RxSwift](https://github.com/ReactiveX/RxSwift) Reactive Programming in Swift
+- [Operations](https://github.com/danthorpe/Operations) A Swift framework inspired by WWDC 2015 Advanced NSOperations session.
+
 Repos
 --
 
