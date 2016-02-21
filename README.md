@@ -41,6 +41,7 @@ Unidirectional Data Flow
 - [Ziggurat iOS App Architecture](https://corner.squareup.com/2015/12/ziggurat-ios-app-architecture.html)
 - [ziggurat](https://github.com/alanf/ziggurat) App architecture with one-way data data flow and view models
 - [Rethinking iOS App Architecture Using a One Way Data Flow](https://www.youtube.com/watch?v=4cP1p5VOrSI)
+- [Elmification of Swift](https://medium.com/design-x-code/elmification-of-swift-af14b7f92b30#.7twj79puf)
 
 VIPER
 --
