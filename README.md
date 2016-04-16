@@ -45,6 +45,7 @@ Content
 - [Massive View Controller](http://khanlou.com/2015/12/massive-view-controller/)
 - [Lighter AppDelegate](http://www.fantageek.com/blog/2015/10/31/lighter-appdelegate/)
 - [Clean Swift iOS Architecture for Fixing Massive View Controller](http://clean-swift.com/clean-swift-ios-architecture/)
+- [Modern application architectures (Reactive programming, MVVM and beyond)](https://slack-files.com/T051G5Y6D-F0HABHKDK-8e9141e191)
 
 ## Videos
 
