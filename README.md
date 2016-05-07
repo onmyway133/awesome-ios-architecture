@@ -1,7 +1,8 @@
 fantastic-ios-architecture
 ==
-
 Better ways to structure apps
+
+![](Screenshots/Banner.png)
 
 Content
 ==
