@@ -126,3 +126,7 @@ Content
 - [StatefulViewController](https://github.com/aschuch/StatefulViewController) Placeholder views based on content, loading, error or empty states
 - [Spots](https://github.com/hyperoslo/Spots) Spots is a view controller framework that makes your setup and future development blazingly fast
 - [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit) Type-safe, value-oriented, composable data source objects that keep your view controllers light
+
+Licence
+--
+This project is released under the MIT license. See LICENSE.md.
