@@ -64,6 +64,7 @@ Content
 - [Elmification of Swift](https://medium.com/design-x-code/elmification-of-swift-af14b7f92b30#.7twj79puf)
 - [StateView](https://github.com/sahandnayebaziz/StateView) Views that automatically update themselves.
 - [Render](https://github.com/alexdrone/Render) Swift and UIKit a la React.
+- [Real World Flux Architecture on iOS](http://blog.benjamin-encz.de/post/real-world-flux-ios/) :star:
 
 ## VIPER
 
