@@ -68,6 +68,10 @@ Content
 - [StateView](https://github.com/sahandnayebaziz/StateView) Views that automatically update themselves.
 - [Render](https://github.com/alexdrone/Render) Swift and UIKit a la React.
 - [Real World Flux Architecture on iOS](http://blog.benjamin-encz.de/post/real-world-flux-ios/) :star:
+- [Turning UIKit Inside Out](https://realm.io/news/altconf-benji-encz-uikit-inside-out-declarative-programming) :star:
+- [Few.swift](https://github.com/joshaber/Few.swift) Views as functions of their state.
+- [Aftermath](https://github.com/hyperoslo/Aftermath) Stateless message-driven micro-framework in Swift.
+- [Renderer](https://github.com/alexdrone/Render) Swift and UIKit a la React.
 
 ## VIPER
 
@@ -132,6 +136,7 @@ Content
 - [StatefulViewController](https://github.com/aschuch/StatefulViewController) Placeholder views based on content, loading, error or empty states
 - [Spots](https://github.com/hyperoslo/Spots) Spots is a view controller framework that makes your setup and future development blazingly fast :star::star:
 - [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit) Type-safe, value-oriented, composable data source objects that keep your view controllers light
+- [AutoTablel](https://github.com/ben-g/autotable) Demonstration of wrapping a UIKit API into a declarative API Layer
 
 Licence
 --
