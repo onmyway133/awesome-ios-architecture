@@ -126,6 +126,11 @@ Content
 - [Typed, yet Flexible Table View Controller](http://holko.pl/2016/01/05/typed-table-view-controller/)
 - [Complex table view state changes made easy](https://engineering.kitchenstories.io/this-simple-trick-will-change-how-you-think-about-table-views-706193654974#.raaqvz1yi)
 
+
+## Videos
+
+- [UMT2016 - John Sundell - Building component-driven UIs at Spotify](https://www.youtube.com/watch?v=vuCfKjOwZdU&feature=youtu.be)
+
 ## Repos
 
 - [Mensa](https://github.com/jordanekay/Mensa) Smart, modern table and collection views on iOS.
