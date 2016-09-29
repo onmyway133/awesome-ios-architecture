@@ -14,6 +14,7 @@ Content
 - [VIPER](#viper)
 - [MVVM](#mvvm)
 - [Data Source](#data-source)
+- [Sync](#sync)
 
 <!-- /TOC -->
 
@@ -146,6 +147,16 @@ Content
 - [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit) Type-safe, value-oriented, composable data source objects that keep your view controllers light
 - [AutoTablel](https://github.com/ben-g/autotable) Demonstration of wrapping a UIKit API into a declarative API Layer
 - [HubFramework](https://github.com/spotify/HubFramework) Spotify’s component-driven UI framework for iOS :star::star::star:
+
+# Sync
+
+## Posts
+
+- [Introducing the Realm Mobile Platform: Realtime Sync Plus Fully Open Source Databas](https://realm.io/news/introducing-realm-mobile-platform/)
+
+## Repos
+
+- [wire-ios-sync-engine](https://github.com/wireapp/wire-ios-sync-engine) iOS synchronization library for Wire
 
 Licence
 --
