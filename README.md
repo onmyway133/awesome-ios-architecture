@@ -13,8 +13,6 @@ Content
 - [Unidirectional Data Flow](#unidirectional-data-flow)
 - [VIPER](#viper)
 - [MVVM](#mvvm)
-- [Frameworks](#frameworks)
-- [Repos](#repos)
 - [Data Source](#data-source)
 
 <!-- /TOC -->
