@@ -90,6 +90,7 @@ Content
 - [Aftermath](https://github.com/hyperoslo/Aftermath) Stateless message-driven micro-framework in Swift. :star::star:
 - [Renderer](https://github.com/alexdrone/Render) Swift and UIKit a la React.
 - [Few.swift](https://github.com/joshaber/Few.swift) Views as functions of their state.
+- [SwiftFlux](https://github.com/yonekawa/SwiftFlux) A type-safe Flux implementation for Swift
 
 # VIPER
 
