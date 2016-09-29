@@ -10,16 +10,12 @@ Content
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [General](#general)
-	- [Posts](#posts)
-	- [Videos](#videos)
-	- [Unidirectional Data Flow](#unidirectional-data-flow)
-	- [VIPER](#viper)
-	- [MVVM](#mvvm)
-	- [Frameworks](#frameworks)
-	- [Repos](#repos)
+- [Unidirectional Data Flow](#unidirectional-data-flow)
+- [VIPER](#viper)
+- [MVVM](#mvvm)
+- [Frameworks](#frameworks)
+- [Repos](#repos)
 - [Data Source](#data-source)
-	- [Posts](#posts)
-	- [Repos](#repos)
 
 <!-- /TOC -->
 
@@ -57,7 +53,9 @@ Content
 - [The State of Statelessness](https://realm.io/news/pragma-hannes-verlinde-statelessness-react-native/)
 - [Good iOS Application Architecture](http://slideslive.com/38897361/good-ios-application-architecture-en)
 
-## Unidirectional Data Flow
+# Unidirectional Data Flow
+
+## Posts
 
 - [Unidirectional Data Flow in Swift: An Alternative to Massive View Controllers](https://realm.io/news/benji-encz-unidirectional-data-flow-swift/)
 - [ReSwift](https://github.com/ReSwift/ReSwift) Unidirectional Data Flow in Swift - Inspired by Redux
@@ -73,7 +71,13 @@ Content
 - [Aftermath](https://github.com/hyperoslo/Aftermath) Stateless message-driven micro-framework in Swift. :star::star:
 - [Renderer](https://github.com/alexdrone/Render) Swift and UIKit a la React.
 
-## VIPER
+## Videos
+
+- [Building a Unidirectional Data Flow App in Swift with Realm](https://realm.io/news/unidirectional-data-flow-in-swift/)
+
+# VIPER
+
+## Posts
 
 - [Introduction to VIPER](http://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)
 - [Architecting iOS Apps with VIPER](http://www.objc.io/issues/13-architecture/viper/)
@@ -91,7 +95,9 @@ Content
 - [iOS Project Architecture: Using VIPER](https://www.ckl.io/blog/ios-project-architecture-using-viper/)
 - [iOSModulesArchitecture](https://github.com/JeanLebrument/iOSModulesArchitecture) Quick example of how divide an app into modules to respect the SOLID principles
 
-## MVVM
+# MVVM
+
+## Posts
 
 - [Introduction to MVVM](https://www.objc.io/issues/13-architecture/mvvm/)
 - [MVVM is Not Very Good](http://khanlou.com/2015/12/mvvm-is-not-very-good/)
@@ -100,12 +106,12 @@ Content
 - [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark) MVVM with FRP Benchmark project
 
 
-## Frameworks
+# Frameworks
 
 - [RxSwift](https://github.com/ReactiveX/RxSwift) Reactive Programming in Swift
 - [Operations](https://github.com/danthorpe/Operations) A Swift framework inspired by WWDC 2015 Advanced NSOperations session.
 
-## Repos
+# Repos
 
 - [modular-architecture](https://github.com/bricepollock/modular-architecture) Examples of iOS Modular Architecture in Swift
 - [CleanStore](https://github.com/Clean-Swift/CleanStore) A sample iOS app built using the Clean Swift architecture
