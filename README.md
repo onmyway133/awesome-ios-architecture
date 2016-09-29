@@ -69,7 +69,6 @@ Content
 ## Posts
 
 - [Unidirectional Data Flow in Swift: An Alternative to Massive View Controllers](https://realm.io/news/benji-encz-unidirectional-data-flow-swift/)
-- [ReSwift](https://github.com/ReSwift/ReSwift) Unidirectional Data Flow in Swift - Inspired by Redux
 - [Ziggurat iOS App Architecture](https://corner.squareup.com/2015/12/ziggurat-ios-app-architecture.html)
 - [ziggurat](https://github.com/alanf/ziggurat) App architecture with one-way data data flow and view models
 - [Rethinking iOS App Architecture Using a One Way Data Flow](https://www.youtube.com/watch?v=4cP1p5VOrSI)
@@ -78,13 +77,18 @@ Content
 - [Render](https://github.com/alexdrone/Render) Swift and UIKit a la React.
 - [Real World Flux Architecture on iOS](http://blog.benjamin-encz.de/post/real-world-flux-ios/) :star:
 - [Turning UIKit Inside Out](https://realm.io/news/altconf-benji-encz-uikit-inside-out-declarative-programming) :star:
-- [Few.swift](https://github.com/joshaber/Few.swift) Views as functions of their state.
-- [Aftermath](https://github.com/hyperoslo/Aftermath) Stateless message-driven micro-framework in Swift. :star::star:
-- [Renderer](https://github.com/alexdrone/Render) Swift and UIKit a la React.
 
 ## Videos
 
 - [Building a Unidirectional Data Flow App in Swift with Realm](https://realm.io/news/unidirectional-data-flow-in-swift/)
+
+## Repos
+
+- [ReSwift](https://github.com/ReSwift/ReSwift) Unidirectional Data Flow in Swift - Inspired by Redux :star::star::star:
+- [Reactor](https://github.com/jarsen/Reactor) Unidirectional data flow in Swift
+- [Aftermath](https://github.com/hyperoslo/Aftermath) Stateless message-driven micro-framework in Swift. :star::star:
+- [Renderer](https://github.com/alexdrone/Render) Swift and UIKit a la React.
+- [Few.swift](https://github.com/joshaber/Few.swift) Views as functions of their state.
 
 # VIPER
 
