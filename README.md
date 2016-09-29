@@ -70,7 +70,7 @@ Content
 - [Real World Flux Architecture on iOS](http://blog.benjamin-encz.de/post/real-world-flux-ios/) :star:
 - [Turning UIKit Inside Out](https://realm.io/news/altconf-benji-encz-uikit-inside-out-declarative-programming) :star:
 - [Few.swift](https://github.com/joshaber/Few.swift) Views as functions of their state.
-- [Aftermath](https://github.com/hyperoslo/Aftermath) Stateless message-driven micro-framework in Swift.
+- [Aftermath](https://github.com/hyperoslo/Aftermath) Stateless message-driven micro-framework in Swift. :star::star:
 - [Renderer](https://github.com/alexdrone/Render) Swift and UIKit a la React.
 
 ## VIPER
