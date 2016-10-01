@@ -140,6 +140,7 @@ Content
 ## Videos
 
 - [UMT2016 - John Sundell - Building component-driven UIs at Spotify](https://www.youtube.com/watch?v=vuCfKjOwZdU&feature=youtu.be)
+- [Refactoring at Scale – Lessons Learned Rewriting Instagram’s Feed](https://realm.io/news/tryswift-ryan-nystrom-refactoring-at-scale-lessons-learned-rewriting-instagram-feed/)
 
 ## Repos
 
@@ -154,6 +155,7 @@ Content
 - [AutoTablel](https://github.com/ben-g/autotable) Demonstration of wrapping a UIKit API into a declarative API Layer
 - [HubFramework](https://github.com/spotify/HubFramework) Spotify’s component-driven UI framework for iOS :star::star::star:
 - [ComponentKit](https://github.com/facebook/componentkit) A React-inspired view framework for iOS
+- [IGListKit](https://github.com/instagram/IGListKit)
 
 # Sync
 
