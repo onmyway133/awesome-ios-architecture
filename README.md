@@ -155,7 +155,7 @@ Content
 - [AutoTablel](https://github.com/ben-g/autotable) Demonstration of wrapping a UIKit API into a declarative API Layer
 - [HubFramework](https://github.com/spotify/HubFramework) Spotify’s component-driven UI framework for iOS :star::star::star:
 - [ComponentKit](https://github.com/facebook/componentkit) A React-inspired view framework for iOS
-- [IGListKit](https://github.com/instagram/IGListKit)
+- [IGListKit](https://github.com/instagram/IGListKit) A data-driven UICollectionView framework for building fast and flexible lists. :star::star::star:
 
 # Sync
 
