@@ -173,6 +173,11 @@ Content
 ## Repos
 
 - [Cache](https://github.com/hyperoslo/Cache) Nothing but Cache
+- [RocketData](https://github.com/linkedin/RocketData)
+
+## Videos
+
+- [Managing Consistency of Immutable Models](https://realm.io/news/slug-peter-livesey-managing-consistency-immutable-models/)
 
 Licence
 --
