@@ -46,7 +46,7 @@ Content
 - [“Tree of Models” as an Alternative App Architecture Model](https://yalantis.com/blog/tree-of-models-as-an-alternative-app-architecture-model/) :star:
 - [A composable pattern for pure state machines with effects](https://gist.github.com/andymatuschak/d5f0a8730ad601bcccae97e8398e25b2)
 - [MVVM Is Quite Okay at What It Is Supposed to Do](https://christiantietze.de/posts/2016/08/mvvm-is-okay-for-what-it-does/)
-- [Architectures comparaison](https://swifting.io/blog/2016/09/07/architecture-wars-a-new-hope/)
+- [Architectures comparison](https://swifting.io/blog/2016/09/07/architecture-wars-a-new-hope/)
 
 ## Videos
 
