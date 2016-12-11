@@ -162,6 +162,7 @@ Content
 - [ComponentKit](https://github.com/facebook/componentkit) A React-inspired view framework for iOS
 - [IGListKit](https://github.com/instagram/IGListKit) A data-driven UICollectionView framework for building fast and flexible lists. :star::star::star:
 - [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) Native App over HTTP :star::star::rocket:
+- [StatefulViewController](https://github.com/aschuch/StatefulViewController) Placeholder views based on content, loading, error or empty states
 
 # Sync
 
