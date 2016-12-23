@@ -135,7 +135,7 @@ Content
 - [Apple’s Take on App Architecture](http://oleb.net/blog/2014/06/apples-take-on-app-architecture/)
 - [Fluent Pagination - no more jumpy scrolling](http://www.iosnomad.com/blog/2014/4/21/fluent-pagination)
 - [AdvancedCollectionView](https://github.com/zwaldowski/AdvancedCollectionView)
-- [iOS: UITableView controller](http://blog.mobiledev.pl/2014/01/12/uitableview-controller/)
+- [iOS: UITableView controller](http://gosuwachu.io/2014/01/12/uitableview-controller/)
 - [Nestable](http://khanlou.com/2015/04/nestable/)
 - [Advanced UITableViews Made Simple: YLTableView](http://engineeringblog.yelp.com/2015/06/advanced-uitableviews-made-simple-yltableview.html)
 - [Typed, yet Flexible Table View Controller](http://holko.pl/2016/01/05/typed-table-view-controller/)
