@@ -80,6 +80,7 @@ Content
 - [Render](https://github.com/alexdrone/Render) Swift and UIKit a la React.
 - [Real World Flux Architecture on iOS](http://blog.benjamin-encz.de/post/real-world-flux-ios/) :star:
 - [Turning UIKit Inside Out](https://realm.io/news/altconf-benji-encz-uikit-inside-out-declarative-programming) :star:
+- [App Coordinators and Redux on iOS](http://willowtreeapps.com/ideas/app-coordinators-and-redux-on-ios/)
 
 ## Videos
 
