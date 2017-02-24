@@ -21,7 +21,7 @@ Content
 
 # General
 
-## Posts
+### Posts
 
 - [Clean Cocoa](http://www.fantageek.com/blog/2015/12/03/clean-cocoa/) :star:
 - [Flow Controllers on iOS for a Better Navigation Control](http://albertodebortoli.github.io/blog/2014/09/03/flow-controllers-on-ios-for-a-better-navigation-control/)
@@ -48,19 +48,19 @@ Content
 - [MVVM Is Quite Okay at What It Is Supposed to Do](https://christiantietze.de/posts/2016/08/mvvm-is-okay-for-what-it-does/)
 - [Architectures comparison](https://swifting.io/blog/2016/09/07/architecture-wars-a-new-hope/)
 
-## Videos
+### Videos
 
 - [Platformizing UI code](https://www.youtube.com/watch?v=TCPWckSi0Xs&feature=youtu.be)
 - [The State of Statelessness](https://realm.io/news/pragma-hannes-verlinde-statelessness-react-native/)
 - [Good iOS Application Architecture](http://slideslive.com/38897361/good-ios-application-architecture-en)
 
-## Frameworks
+### Frameworks
 
 - [RxSwift](https://github.com/ReactiveX/RxSwift) Reactive Programming in Swift
 - [Operations](https://github.com/danthorpe/Operations) A Swift framework inspired by WWDC 2015 Advanced NSOperations session.
 - [Logician](https://github.com/mdiep/Logician) Logic programming in Swift
 
-## Repos
+### Repos
 
 - [modular-architecture](https://github.com/bricepollock/modular-architecture) Examples of iOS Modular Architecture in Swift
 - [CleanStore](https://github.com/Clean-Swift/CleanStore) A sample iOS app built using the Clean Swift architecture
@@ -69,7 +69,7 @@ Content
 
 # Unidirectional Data Flow
 
-## Posts
+### Posts
 
 - [Unidirectional Data Flow in Swift: An Alternative to Massive View Controllers](https://realm.io/news/benji-encz-unidirectional-data-flow-swift/)
 - [Ziggurat iOS App Architecture](https://corner.squareup.com/2015/12/ziggurat-ios-app-architecture.html)
@@ -82,11 +82,11 @@ Content
 - [Turning UIKit Inside Out](https://realm.io/news/altconf-benji-encz-uikit-inside-out-declarative-programming) :star:
 - [App Coordinators and Redux on iOS](http://willowtreeapps.com/ideas/app-coordinators-and-redux-on-ios/)
 
-## Videos
+### Videos
 
 - [Building a Unidirectional Data Flow App in Swift with Realm](https://realm.io/news/unidirectional-data-flow-in-swift/)
 
-## Repos
+### Repos
 
 - [ReSwift](https://github.com/ReSwift/ReSwift) Unidirectional Data Flow in Swift - Inspired by Redux :star::star::star:
 - [Reactor](https://github.com/jarsen/Reactor) Unidirectional data flow in Swift
@@ -98,7 +98,7 @@ Content
 
 # VIPER
 
-## Posts
+### Posts
 
 - [Introduction to VIPER](http://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)
 - [Architecting iOS Apps with VIPER](http://www.objc.io/issues/13-architecture/viper/)
@@ -120,13 +120,13 @@ Content
 - [VIPER to be or not to be](https://swifting.io/blog/2016/03/07/8-viper-to-be-or-not-to-be/)
 - [Building iOS App With VIPER Architecture](https://blog.mindorks.com/building-ios-app-with-viper-architecture-8109acc72227)
 
-## Repos
+### Repos
 
 - [iOS-Viper-Architecture](https://github.com/MindorksOpenSource/iOS-Viper-Architecture) A detailed sample app that implements VIPER architecture
 
 # MVVM
 
-## Posts
+### Posts
 
 - [Introduction to MVVM](https://www.objc.io/issues/13-architecture/mvvm/)
 - [MVVM is Not Very Good](http://khanlou.com/2015/12/mvvm-is-not-very-good/)
@@ -136,7 +136,7 @@ Content
 
 # Data Source
 
-## Posts
+### Posts
 
 - [Lightweight iOS View Controllers](https://yalantis.com/blog/lightweight-ios-view-controllers-separate-data-sources-guided-mvc/)
 - [Apple’s Take on App Architecture](http://oleb.net/blog/2014/06/apples-take-on-app-architecture/)
@@ -149,12 +149,12 @@ Content
 - [Complex table view state changes made easy](https://engineering.kitchenstories.io/this-simple-trick-will-change-how-you-think-about-table-views-706193654974#.raaqvz1yi)
 
 
-## Videos
+### Videos
 
 - [UMT2016 - John Sundell - Building component-driven UIs at Spotify](https://www.youtube.com/watch?v=vuCfKjOwZdU&feature=youtu.be)
 - [Refactoring at Scale – Lessons Learned Rewriting Instagram’s Feed](https://realm.io/news/tryswift-ryan-nystrom-refactoring-at-scale-lessons-learned-rewriting-instagram-feed/)
 
-## Repos
+### Repos
 
 - [Mensa](https://github.com/jordanekay/Mensa) Smart, modern table and collection views on iOS.
 - [RLDTableViewSuite](https://github.com/rlopezdiez/RLDTableViewSuite) Reusable table view controller, data source and delegate for all your UITableView needs
@@ -173,22 +173,22 @@ Content
 
 # Sync
 
-## Posts
+### Posts
 
 - [Introducing the Realm Mobile Platform: Realtime Sync Plus Fully Open Source Databas](https://realm.io/news/introducing-realm-mobile-platform/)
 
-## Repos
+### Repos
 
 - [wire-ios-sync-engine](https://github.com/wireapp/wire-ios-sync-engine) iOS synchronization library for Wire
 
 # Cache
 
-## Repos
+### Repos
 
 - [Cache](https://github.com/hyperoslo/Cache) Nothing but Cache
 - [RocketData](https://github.com/linkedin/RocketData)
 
-## Videos
+### Videos
 
 - [Managing Consistency of Immutable Models](https://realm.io/news/slug-peter-livesey-managing-consistency-immutable-models/)
 
