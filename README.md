@@ -10,7 +10,7 @@ Content
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [General](#general)
-- [Clean Architecture](#clean-archiecture)
+- [Clean Architecture](#clean-architecture)
 - [Unidirectional Data Flow](#unidirectional-data-flow)
 - [VIPER](#viper)
 - [MVVM](#mvvm)
@@ -66,7 +66,7 @@ Content
 - [Delta](https://github.com/thoughtbot/Delta) Delta takes an app that has custom state management spread throughout all the VCs and simplifies it by providing a simple interface to change state and subscribe to its changes.
 - [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
 
-# Clean Archiecture
+# Clean Architecture
 
 ### Posts
 
