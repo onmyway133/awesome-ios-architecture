@@ -66,6 +66,7 @@ Content
 - [CleanStore](https://github.com/Clean-Swift/CleanStore) A sample iOS app built using the Clean Swift architecture
 - [Delta](https://github.com/thoughtbot/Delta) Delta takes an app that has custom state management spread throughout all the VCs and simplifies it by providing a simple interface to change state and subscribe to its changes.
 - [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
+- [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) Example of Clean Architecture of iOS app using RxSwift :rocket:
 
 # Unidirectional Data Flow
 
