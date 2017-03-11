@@ -147,6 +147,10 @@ Content
 - [On MVVM, and Architecture Questions](http://twocentstudios.com/2014/06/08/on-mvvm-and-architecture-questions/)
 - [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark) MVVM with FRP Benchmark project
 
+### Repos
+
+- [RxMVVM](https://github.com/devxoul/RxMVVM) The modern and reactive architecture for RxSwift application
+
 # Data Source
 
 ### Posts
