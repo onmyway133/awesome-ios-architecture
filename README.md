@@ -157,7 +157,7 @@ Content
 
 ### Repos
 
-- [RxMVVM](https://github.com/devxoul/RxMVVM) The modern and reactive architecture for RxSwift application
+- [TheReactiveArchitecture](https://github.com/devxoul/TheReactiveArchitecture) The modern and reactive architecture for RxSwift application
 
 # Data Source
 
