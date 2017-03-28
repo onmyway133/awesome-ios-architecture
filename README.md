@@ -109,6 +109,7 @@ Content
 - [Few.swift](https://github.com/joshaber/Few.swift) Views as functions of their state.
 - [SwiftFlux](https://github.com/yonekawa/SwiftFlux) A type-safe Flux implementation for Swift
 - [katana-swift](https://github.com/BendingSpoons/katana-swift) Swift Apps in a Swoosh
+- [Dispatch](https://github.com/alexdrone/Dispatch) Multi-store Flux implementation in Swift.
 
 # MVC
 
