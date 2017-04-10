@@ -19,6 +19,7 @@ Content
 - [Sync](#sync)
 - [Cache](#cache)
 - [Asynchronous Programming](#asynchronous-programming)
+- [Persistence](#persistence)
 
 <!-- /TOC -->
 
@@ -229,6 +230,21 @@ Content
 
 - [RxSwift](https://github.com/ReactiveX/RxSwift) Reactive Programming in Swift
 - [Operations](https://github.com/danthorpe/Operations) A Swift framework inspired by WWDC 2015 Advanced NSOperations session.
+
+# Persistence
+
+### Posts
+
+- [MVC-RS](https://medium.com/swift-programming/mvc-rs-8780e73e9ff4)
+- [The Missing Light Persistence Layer for Swift](https://medium.com/ios-os-x-development/the-missing-light-persistence-layer-for-swift-35ce75d02d47)
+- [How to Abstract Your Persistence Layer and Migrate to Another One on iOS With JustPersist](http://albertodebortoli.com/blog/2017/03/02/How-to-abstract-your-persistence-layer-and-migrate-to-another-one-on-iOS-with-JustPersist/)
+
+### Repos
+
+- [CTPersistance](https://github.com/casatwy/CTPersistance)
+- [JustPersist](https://github.com/justeat/JustPersist)
+- [Pantry](https://github.com/nickoneill/Pantry)
+
 
 Licence
 --
