@@ -111,6 +111,7 @@ Content
 - [SwiftFlux](https://github.com/yonekawa/SwiftFlux) A type-safe Flux implementation for Swift
 - [katana-swift](https://github.com/BendingSpoons/katana-swift) Swift Apps in a Swoosh
 - [Dispatch](https://github.com/alexdrone/Dispatch) Multi-store Flux implementation in Swift.
+- [ReactorKit](https://github.com/ReactorKit/ReactorKit) A framework for reactive and unidirectional Swift application architecture http://reactorkit.io
 
 # MVC
 
