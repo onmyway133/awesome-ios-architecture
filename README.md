@@ -202,6 +202,7 @@ Content
 - [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) Native App over HTTP :star::star::rocket:
 - [StatefulViewController](https://github.com/aschuch/StatefulViewController) Placeholder views based on content, loading, error or empty states
 - [StackScrollView](https://github.com/muukii/StackScrollView) iOS Form UI Builder in Swift (powered by UICollectionView)
+- [ScrollingStackContainer](https://github.com/malcommac/ScrollingStackContainer) Efficient Scrolling UIStackView in Swift
 
 # Sync
 
