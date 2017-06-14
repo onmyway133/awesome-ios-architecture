@@ -165,7 +165,7 @@ Content
 ### Repos
 
 - [TheReactiveArchitecture](https://github.com/devxoul/TheReactiveArchitecture) The modern and reactive architecture for RxSwift application
-- [kickstarter vm structure](https://github.com/kickstarter/native-docs/blob/master/vm-structure.md)
+- [kickstarter vm structure](https://github.com/kickstarter/native-docs/blob/master/vm-structure.md) Rx input and output
 
 # Data Source
 
