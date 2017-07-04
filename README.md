@@ -235,6 +235,7 @@ Content
 
 - [Comparative Asynchronous Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
 - [Thinking in RxSwift](http://adamborek.com/thinking-rxswift/)
+- [Reducers](http://chris.eidhof.nl/post/reducers/)
 
 ### Frameworks
 
