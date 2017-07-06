@@ -114,6 +114,7 @@ Content
 - [Dispatch](https://github.com/alexdrone/Dispatch) Multi-store Flux implementation in Swift.
 - [ReactorKit](https://github.com/ReactorKit/ReactorKit) A framework for reactive and unidirectional Swift application architecture :rocket: :rocket:
 - [RxFeedback](https://github.com/kzaher/RxFeedback) Architecture for RxSwift
+- [tea-in-swift](https://github.com/chriseidhof/tea-in-swift) The Elm Architecture in Swift
 
 # MVC
 
