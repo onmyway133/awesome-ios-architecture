@@ -62,7 +62,7 @@ Content
 - [The State of Statelessness](https://realm.io/news/pragma-hannes-verlinde-statelessness-react-native/)
 - [Good iOS Application Architecture](http://slideslive.com/38897361/good-ios-application-architecture-en)
 
-### Miscs
+### Misc
 
 - [Logician](https://github.com/mdiep/Logician) Logic programming in Swift
 - [modular-architecture](https://github.com/bricepollock/modular-architecture) Examples of iOS Modular Architecture in Swift
