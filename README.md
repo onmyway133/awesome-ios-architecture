@@ -1,5 +1,4 @@
-fantastic-ios-architecture
-==
+# 𝙛𝙖𝙣𝙩𝙖𝙨𝙩𝙞𝙘 𝙞𝙤𝙨 𝙖𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚
 Better ways to structure apps
 
 ![](Screenshots/Banner.png)
