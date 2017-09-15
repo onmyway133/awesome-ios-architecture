@@ -168,6 +168,7 @@ Content
 
 - [TheReactiveArchitecture](https://github.com/devxoul/TheReactiveArchitecture) The modern and reactive architecture for RxSwift application
 - [kickstarter vm structure](https://github.com/kickstarter/native-docs/blob/master/vm-structure.md) Rx input and output
+- [Coordinator-MVVM-Rx-Example](https://github.com/uptechteam/Coordinator-MVVM-Rx-Example) Example of MVVM-C architecture implemented with RxSwift
 
 # Data Source
 
