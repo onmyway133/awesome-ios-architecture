@@ -47,6 +47,7 @@ Content
 - [A composable pattern for pure state machines with effects](https://gist.github.com/andymatuschak/d5f0a8730ad601bcccae97e8398e25b2)
 - [Architectures comparison](https://swifting.io/blog/2016/09/07/architecture-wars-a-new-hope/)
 - [Basecamp 3 for iOS: Hybrid Architecture](https://m.signalvnoise.com/basecamp-3-for-ios-hybrid-architecture-afc071589c25)
+- [Highly maintainable app architecture](http://aplus.rs/2017/highly-maintainable-app-architecture/)
 
 ### AppDelegate
 
