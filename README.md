@@ -59,7 +59,7 @@ Content
 
 - [Platformizing UI code](https://www.youtube.com/watch?v=TCPWckSi0Xs&feature=youtu.be)
 - [The State of Statelessness](https://realm.io/news/pragma-hannes-verlinde-statelessness-react-native/)
-- [Good iOS Application Architecture](http://slideslive.com/38897361/good-ios-application-architecture-en)
+- [Good iOS Application Architecture](https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper) :rocket:
 
 ### Misc
 
