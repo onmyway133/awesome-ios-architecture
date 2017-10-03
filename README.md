@@ -166,6 +166,7 @@ Content
 - [MVVM Is Quite Okay at What It Is Supposed to Do](https://christiantietze.de/posts/2016/08/mvvm-is-okay-for-what-it-does/)
 - [MVVM-C In Practice](https://www.youtube.com/watch?v=9VojuJpUuE8)
 - [MVVM in Practice - RWDevCon Session](https://www.youtube.com/watch?v=sWx8TtRBOfk)
+- [View Models at Kickstarter ](https://talk.objc.io/episodes/S01E47-view-models-at-kickstarter)
 
 ### Repos
 
