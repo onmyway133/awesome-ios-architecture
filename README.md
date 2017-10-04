@@ -48,6 +48,7 @@ Content
 - [Architectures comparison](https://swifting.io/blog/2016/09/07/architecture-wars-a-new-hope/)
 - [Basecamp 3 for iOS: Hybrid Architecture](https://m.signalvnoise.com/basecamp-3-for-ios-hybrid-architecture-afc071589c25)
 - [Highly maintainable app architecture](http://aplus.rs/2017/highly-maintainable-app-architecture/) :star:
+- [Everyone is an API designer](https://vimeo.com/234961067) :rocket:
  
 ### AppDelegate
 
