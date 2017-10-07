@@ -49,6 +49,7 @@ Content
 - [Basecamp 3 for iOS: Hybrid Architecture](https://m.signalvnoise.com/basecamp-3-for-ios-hybrid-architecture-afc071589c25)
 - [Highly maintainable app architecture](http://aplus.rs/2017/highly-maintainable-app-architecture/) :star:
 - [Everyone is an API designer](https://vimeo.com/234961067) :rocket:
+- [Driving view state through data](https://academy.realm.io/posts/try-swift-nyc-2017-matt-gallagher-driving-view-state-through-data/)
  
 ### AppDelegate
 
