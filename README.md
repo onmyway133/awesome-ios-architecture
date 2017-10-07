@@ -51,6 +51,7 @@ Content
 - [Everyone is an API designer](https://vimeo.com/234961067) :rocket:
 - [Driving view state through data](https://academy.realm.io/posts/try-swift-nyc-2017-matt-gallagher-driving-view-state-through-data/)
 - [Architecture Wars – A New Hope](https://swifting.io/blog/2016/09/07/architecture-wars-a-new-hope/)
+- [Improving Existing Apps with Modern Best Practices](https://developer.apple.com/videos/play/wwdc2016/213/) :rocket:
  
 ### AppDelegate
 
