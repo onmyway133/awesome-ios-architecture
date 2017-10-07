@@ -18,7 +18,6 @@ Content
 - [Sync](#sync)
 - [Cache](#cache)
 - [Asynchronous Programming](#asynchronous-programming)
-- [Persistence](#persistence)
 - [Navigation](#navigation)
 
 <!-- /TOC -->
@@ -229,14 +228,21 @@ Content
 
 # Cache
 
+### Posts
+
+- [MVC-RS](https://medium.com/swift-programming/mvc-rs-8780e73e9ff4)
+- [The Missing Light Persistence Layer for Swift](https://medium.com/ios-os-x-development/the-missing-light-persistence-layer-for-swift-35ce75d02d47)
+- [How to Abstract Your Persistence Layer and Migrate to Another One on iOS With JustPersist](http://albertodebortoli.com/blog/2017/03/02/How-to-abstract-your-persistence-layer-and-migrate-to-another-one-on-iOS-with-JustPersist/)
+- [The Flat Cache](http://khanlou.com/2017/10/the-flat-cache/)
+
 ### Repos
 
 - [Cache](https://github.com/hyperoslo/Cache) Nothing but Cache
 - [RocketData](https://github.com/linkedin/RocketData)
-
-### Videos
-
 - [Managing Consistency of Immutable Models](https://realm.io/news/slug-peter-livesey-managing-consistency-immutable-models/)
+- [CTPersistance](https://github.com/casatwy/CTPersistance)
+- [JustPersist](https://github.com/justeat/JustPersist)
+- [Pantry](https://github.com/nickoneill/Pantry)
 
 # Asynchronous Programming
 
@@ -246,24 +252,10 @@ Content
 - [Thinking in RxSwift](http://adamborek.com/thinking-rxswift/)
 - [Reducers](http://chris.eidhof.nl/post/reducers/)
 
-### Frameworks
+### Repos
 
 - [RxSwift](https://github.com/ReactiveX/RxSwift) Reactive Programming in Swift
 - [Operations](https://github.com/danthorpe/Operations) A Swift framework inspired by WWDC 2015 Advanced NSOperations session.
-
-# Persistence
-
-### Posts
-
-- [MVC-RS](https://medium.com/swift-programming/mvc-rs-8780e73e9ff4)
-- [The Missing Light Persistence Layer for Swift](https://medium.com/ios-os-x-development/the-missing-light-persistence-layer-for-swift-35ce75d02d47)
-- [How to Abstract Your Persistence Layer and Migrate to Another One on iOS With JustPersist](http://albertodebortoli.com/blog/2017/03/02/How-to-abstract-your-persistence-layer-and-migrate-to-another-one-on-iOS-with-JustPersist/)
-
-### Repos
-
-- [CTPersistance](https://github.com/casatwy/CTPersistance)
-- [JustPersist](https://github.com/justeat/JustPersist)
-- [Pantry](https://github.com/nickoneill/Pantry)
 
 # Navigation
 
