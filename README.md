@@ -50,6 +50,7 @@ Content
 - [Highly maintainable app architecture](http://aplus.rs/2017/highly-maintainable-app-architecture/) :star:
 - [Everyone is an API designer](https://vimeo.com/234961067) :rocket:
 - [Driving view state through data](https://academy.realm.io/posts/try-swift-nyc-2017-matt-gallagher-driving-view-state-through-data/)
+- [Architecture Wars – A New Hope](https://swifting.io/blog/2016/09/07/architecture-wars-a-new-hope/)
  
 ### AppDelegate
 
@@ -97,9 +98,7 @@ Content
 - [Turning UIKit Inside Out](https://realm.io/news/altconf-benji-encz-uikit-inside-out-declarative-programming) :star:
 - [App Coordinators and Redux on iOS](http://willowtreeapps.com/ideas/app-coordinators-and-redux-on-ios/)
 - [ReSwift Tutorial: Memory Game App](https://www.raywenderlich.com/155815/reswift-tutorial-memory-game-app)
-
-### Videos
-
+- [App Coordinators and Redux on iOS](https://willowtreeapps.com/ideas/app-coordinators-and-redux-on-ios/)
 - [Building a Unidirectional Data Flow App in Swift with Realm](https://realm.io/news/unidirectional-data-flow-in-swift/)
 
 ### Repos
