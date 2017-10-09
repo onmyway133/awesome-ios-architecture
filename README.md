@@ -153,12 +153,12 @@ Content
 - [ReadingList](https://github.com/gonzalezreal/ReadingList) An example on using the Mantle Modeling Framework with Overcoat AFNetworking extension.
 - [DTTableViewManager](https://github.com/DenHeadless/DTTableViewManager) Protocol-oriented UITableView management, powered by generics and associated types.
 - [StatefulViewController](https://github.com/aschuch/StatefulViewController) Placeholder views based on content, loading, error or empty states
-- [Spots](https://github.com/hyperoslo/Spots) Spots is a view controller framework that makes your setup and future development blazingly fast :star::star:
+- [Spots](https://github.com/hyperoslo/Spots) Spots is a view controller framework that makes your setup and future development blazingly fast :star:
 - [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit) Type-safe, value-oriented, composable data source objects that keep your view controllers light
 - [AutoTablel](https://github.com/ben-g/autotable) Demonstration of wrapping a UIKit API into a declarative API Layer
-- [HubFramework](https://github.com/spotify/HubFramework) Spotify’s component-driven UI framework for iOS :star::star::star:
+- [HubFramework](https://github.com/spotify/HubFramework) Spotify’s component-driven UI framework for iOS
 - [ComponentKit](https://github.com/facebook/componentkit) A React-inspired view framework for iOS
-- [IGListKit](https://github.com/instagram/IGListKit) A data-driven UICollectionView framework for building fast and flexible lists. :star::star::star:
+- [IGListKit](https://github.com/instagram/IGListKit) A data-driven UICollectionView framework for building fast and flexible lists.
 - [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) Native App over HTTP :star::star::rocket:
 - [StatefulViewController](https://github.com/aschuch/StatefulViewController) Placeholder views based on content, loading, error or empty states
 - [StackScrollView](https://github.com/muukii/StackScrollView) iOS Form UI Builder in Swift (powered by UICollectionView)
