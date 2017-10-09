@@ -77,9 +77,9 @@ Content
 
 ### Repos
 
-- [ReSwift](https://github.com/ReSwift/ReSwift) Unidirectional Data Flow in Swift - Inspired by Redux :star::star::star:
+- [ReSwift](https://github.com/ReSwift/ReSwift) Unidirectional Data Flow in Swift - Inspired by Redux :star:
 - [Reactor](https://github.com/jarsen/Reactor) Unidirectional data flow in Swift
-- [Aftermath](https://github.com/hyperoslo/Aftermath) Stateless message-driven micro-framework in Swift. :star::star:
+- [Aftermath](https://github.com/hyperoslo/Aftermath) Stateless message-driven micro-framework in Swift
 - [Renderer](https://github.com/alexdrone/Render) Swift and UIKit a la React.
 - [Few.swift](https://github.com/joshaber/Few.swift) Views as functions of their state.
 - [SwiftFlux](https://github.com/yonekawa/SwiftFlux) A type-safe Flux implementation for Swift
