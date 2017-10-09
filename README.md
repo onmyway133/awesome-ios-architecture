@@ -6,71 +6,44 @@ Better ways to structure apps
 Content
 ==
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [General](#general)
+- [MVC](#mvc)
+- [MVVM](#mvvm)
 - [Clean Architecture](#clean-architecture)
 - [Unidirectional Data Flow](#unidirectional-data-flow)
-- [MVC](#mvc)
 - [VIPER](#viper)
-- [MVVM](#mvvm)
+- [VIP](#vip)
 - [Data Source](#data-source)
-- [Sync](#sync)
-- [Cache](#cache)
-- [Asynchronous Programming](#asynchronous-programming)
-- [Navigation](#navigation)
+- [Misc](#misc)
 
-<!-- /TOC -->
 
-# General
+# MVC
 
 ### Posts
 
-- [Clean Cocoa](http://www.fantageek.com/blog/2015/12/03/clean-cocoa/) :star:
-- [iOS Development: You're Doing It Wrong](http://doing-it-wrong.mikeweller.com/2013/06/ios-app-architecture-and-tdd-1.html)
-- [How to separate view controllers from their view logic](http://jpellat.com/how-to-separate-view-controllers-from-his-view-logic/)
-- [8 Patterns to Help You Destroy Massive View Controller](http://khanlou.com/2014/09/8-patterns-to-help-you-destroy-massive-view-controller/)
-- [API Design](http://mattgemmell.com/api-design/)
-- [Intentions](http://chris.eidhof.nl/posts/intentions.html)
-- [Model-View-ViewModel for iOS](http://www.teehanlax.com/blog/model-view-viewmodel-for-ios/)
-- [Singletons, AppDelegates and top-level data.](http://www.cocoawithlove.com/2008/11/singletons-appdelegates-and-top-level.html)
-- [Collection Extensions](http://kickingbear.com/blog/archives/9)
-- [Model View Controller Presenter](https://medium.com/ios-apprentice/model-view-controller-presenter-8bb4149fa5ef)
-- [Model View Whatever](http://khanlou.com/2014/03/model-view-whatever/)
-- [How We Modularized Medium’s iOS codebase](https://medium.com/medium-eng/how-we-modularized-mediums-ios-codebase-8f8f26965c76)
-- [Lighter View Controller Swift](http://blog.vikingosegundo.de/2014/06/16/lighter-view-controller-swift/)
-- [Improve your iOS Architecture with FlowControllers](http://merowing.info/2016/01/improve-your-ios-architecture-with-flowcontrollers/)
-- [Massive View Controller](http://khanlou.com/2015/12/massive-view-controller/)
-- [Modern application architectures (Reactive programming, MVVM and beyond)](https://slack-files.com/T051G5Y6D-F0HABHKDK-8e9141e191)
-- [“Tree of Models” as an Alternative App Architecture Model](https://yalantis.com/blog/tree-of-models-as-an-alternative-app-architecture-model/) :star:
-- [A composable pattern for pure state machines with effects](https://gist.github.com/andymatuschak/d5f0a8730ad601bcccae97e8398e25b2)
-- [Architectures comparison](https://swifting.io/blog/2016/09/07/architecture-wars-a-new-hope/)
-- [Basecamp 3 for iOS: Hybrid Architecture](https://m.signalvnoise.com/basecamp-3-for-ios-hybrid-architecture-afc071589c25)
-- [Highly maintainable app architecture](http://aplus.rs/2017/highly-maintainable-app-architecture/) :star:
-- [Everyone is an API designer](https://vimeo.com/234961067) :rocket:
-- [Driving view state through data](https://academy.realm.io/posts/try-swift-nyc-2017-matt-gallagher-driving-view-state-through-data/)
-- [Architecture Wars – A New Hope](https://swifting.io/blog/2016/09/07/architecture-wars-a-new-hope/)
-- [Improving Existing Apps with Modern Best Practices](https://developer.apple.com/videos/play/wwdc2016/213/) :rocket:
- 
-### AppDelegate
+- [Looking at Model-View-Controller in Cocoa](https://www.cocoawithlove.com/blog/mvc-and-cocoa.html)
+- [Do MVC like it’s 1979](https://badootech.badoo.com/do-mvc-like-its-1979-da62304f6568)
 
-- [SERVICE-ORIENTED APPDELEGATE](http://sizeof.io/service-oriented-appdelegate/)
-- [Lighter AppDelegate](http://www.fantageek.com/blog/2015/10/31/lighter-appdelegate/)
-- [Service-oriented AppDelegate](https://medium.com/ios-os-x-development/pluggableapplicationdelegate-e50b2c5d97dd#.scovfjixy)
+# MVVM
 
-### Videos
+### Posts
 
-- [Platformizing UI code](https://www.youtube.com/watch?v=TCPWckSi0Xs&feature=youtu.be)
-- [The State of Statelessness](https://realm.io/news/pragma-hannes-verlinde-statelessness-react-native/)
-- [Good iOS Application Architecture](https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper) :rocket:
+- [Introduction to MVVM](https://www.objc.io/issues/13-architecture/mvvm/)
+- [MVVM is Not Very Good](http://khanlou.com/2015/12/mvvm-is-not-very-good/)
+- [Simplification Of IOS View Controllers: MVVM Or Presentation Controls?](http://blog.xebia.com/simplification-of-ios-view-controllers-mvvm-or-presentation-controls/)
+- [On MVVM, and Architecture Questions](http://twocentstudios.com/2014/06/08/on-mvvm-and-architecture-questions/)
+- [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark) MVVM with FRP Benchmark project
+- [The MVVM Pattern for iOS Apps in Swift: a Pragmatic Approach](http://matteomanferdini.com/mvvm-pattern-ios-swift/)
+- [MVVM Is Quite Okay at What It Is Supposed to Do](https://christiantietze.de/posts/2016/08/mvvm-is-okay-for-what-it-does/)
+- [MVVM-C In Practice](https://www.youtube.com/watch?v=9VojuJpUuE8)
+- [MVVM in Practice - RWDevCon Session](https://www.youtube.com/watch?v=sWx8TtRBOfk)
+- [View Models at Kickstarter ](https://talk.objc.io/episodes/S01E47-view-models-at-kickstarter)
+- [MVVM at Scale: Not so Simple](https://academy.realm.io/posts/try-swift-nyc-2017-nataliya-patsovska-mvvm-at-scale/)
 
-### Misc
+### Repos
 
-- [Logician](https://github.com/mdiep/Logician) Logic programming in Swift
-- [modular-architecture](https://github.com/bricepollock/modular-architecture) Examples of iOS Modular Architecture in Swift
-- [Delta](https://github.com/thoughtbot/Delta) Delta takes an app that has custom state management spread throughout all the VCs and simplifies it by providing a simple interface to change state and subscribe to its changes.
-- [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
-- [ENGINEERING THE ARCHITECTURE BEHIND UBER’S NEW RIDER APP](https://eng.uber.com/new-rider-app/)
+- [TheReactiveArchitecture](https://github.com/devxoul/TheReactiveArchitecture) The modern and reactive architecture for RxSwift application
+- [kickstarter vm structure](https://github.com/kickstarter/native-docs/blob/master/vm-structure.md) Rx input and output
+- [Coordinator-MVVM-Rx-Example](https://github.com/uptechteam/Coordinator-MVVM-Rx-Example) Example of MVVM-C architecture implemented with RxSwift
 
 # Clean Architecture
 
@@ -117,13 +90,6 @@ Content
 - [tea-in-swift](https://github.com/chriseidhof/tea-in-swift) The Elm Architecture in Swift
 - [Suas-iOS](https://github.com/zendesk/Suas-iOS) Unidirectional data flow architecture implementation for iOS, macOS, tvOS and watchOS http://suas.readme.io
 
-# MVC
-
-### Posts
-
-- [Looking at Model-View-Controller in Cocoa](https://www.cocoawithlove.com/blog/mvc-and-cocoa.html)
-- [Do MVC like it’s 1979](https://badootech.badoo.com/do-mvc-like-its-1979-da62304f6568)
-
 # VIPER
 
 ### Posts
@@ -156,27 +122,12 @@ Content
 - [iOS-Viper-Architecture](https://github.com/MindorksOpenSource/iOS-Viper-Architecture) A detailed sample app that implements VIPER architecture
 - [iOSSwiftStarter](https://github.com/RoRoche/iOSSwiftStarter) A sample iOS app written in Swift using the VIPER architecture. 
 
-# MVVM
+# VIP
 
 ### Posts
 
-- [Introduction to MVVM](https://www.objc.io/issues/13-architecture/mvvm/)
-- [MVVM is Not Very Good](http://khanlou.com/2015/12/mvvm-is-not-very-good/)
-- [Simplification Of IOS View Controllers: MVVM Or Presentation Controls?](http://blog.xebia.com/simplification-of-ios-view-controllers-mvvm-or-presentation-controls/)
-- [On MVVM, and Architecture Questions](http://twocentstudios.com/2014/06/08/on-mvvm-and-architecture-questions/)
-- [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark) MVVM with FRP Benchmark project
-- [The MVVM Pattern for iOS Apps in Swift: a Pragmatic Approach](http://matteomanferdini.com/mvvm-pattern-ios-swift/)
-- [MVVM Is Quite Okay at What It Is Supposed to Do](https://christiantietze.de/posts/2016/08/mvvm-is-okay-for-what-it-does/)
-- [MVVM-C In Practice](https://www.youtube.com/watch?v=9VojuJpUuE8)
-- [MVVM in Practice - RWDevCon Session](https://www.youtube.com/watch?v=sWx8TtRBOfk)
-- [View Models at Kickstarter ](https://talk.objc.io/episodes/S01E47-view-models-at-kickstarter)
-- [MVVM at Scale: Not so Simple](https://academy.realm.io/posts/try-swift-nyc-2017-nataliya-patsovska-mvvm-at-scale/)
-
-### Repos
-
-- [TheReactiveArchitecture](https://github.com/devxoul/TheReactiveArchitecture) The modern and reactive architecture for RxSwift application
-- [kickstarter vm structure](https://github.com/kickstarter/native-docs/blob/master/vm-structure.md) Rx input and output
-- [Coordinator-MVVM-Rx-Example](https://github.com/uptechteam/Coordinator-MVVM-Rx-Example) Example of MVVM-C architecture implemented with RxSwift
+- [Architecture Wars – A New Hope](https://swifting.io/blog/2016/09/07/architecture-wars-a-new-hope/)
+- [Introducing Clean Swift Architecture (VIP)](https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf)
 
 # Data Source
 
@@ -191,10 +142,6 @@ Content
 - [Advanced UITableViews Made Simple: YLTableView](http://engineeringblog.yelp.com/2015/06/advanced-uitableviews-made-simple-yltableview.html)
 - [Typed, yet Flexible Table View Controller](http://holko.pl/2016/01/05/typed-table-view-controller/)
 - [Complex table view state changes made easy](https://engineering.kitchenstories.io/this-simple-trick-will-change-how-you-think-about-table-views-706193654974#.raaqvz1yi)
-
-
-### Videos
-
 - [UMT2016 - John Sundell - Building component-driven UIs at Spotify](https://www.youtube.com/watch?v=vuCfKjOwZdU&feature=youtu.be)
 - [Refactoring at Scale – Lessons Learned Rewriting Instagram’s Feed](https://realm.io/news/tryswift-ryan-nystrom-refactoring-at-scale-lessons-learned-rewriting-instagram-feed/)
 
@@ -218,27 +165,63 @@ Content
 - [ScrollingStackViewController](https://github.com/justeat/ScrollingStackViewController) A view controller that uses root views of child view controllers as views in a UIStackView.
 - [ScrollingStackContainer](https://github.com/malcommac/ScrollingStackContainer) Efficient Scrolling UIStackView in Swift
 
-# Sync
+# Misc
 
-### Posts
+### General
 
-- [Introducing the Realm Mobile Platform: Realtime Sync Plus Fully Open Source Databas](https://realm.io/news/introducing-realm-mobile-platform/)
+- [Clean Cocoa](http://www.fantageek.com/blog/2015/12/03/clean-cocoa/) :star:
+- [iOS Development: You're Doing It Wrong](http://doing-it-wrong.mikeweller.com/2013/06/ios-app-architecture-and-tdd-1.html)
+- [How to separate view controllers from their view logic](http://jpellat.com/how-to-separate-view-controllers-from-his-view-logic/)
+- [8 Patterns to Help You Destroy Massive View Controller](http://khanlou.com/2014/09/8-patterns-to-help-you-destroy-massive-view-controller/)
+- [API Design](http://mattgemmell.com/api-design/)
+- [Intentions](http://chris.eidhof.nl/posts/intentions.html)
+- [Model-View-ViewModel for iOS](http://www.teehanlax.com/blog/model-view-viewmodel-for-ios/)
+- [Singletons, AppDelegates and top-level data.](http://www.cocoawithlove.com/2008/11/singletons-appdelegates-and-top-level.html)
+- [Collection Extensions](http://kickingbear.com/blog/archives/9)
+- [Model View Controller Presenter](https://medium.com/ios-apprentice/model-view-controller-presenter-8bb4149fa5ef)
+- [Model View Whatever](http://khanlou.com/2014/03/model-view-whatever/)
+- [How We Modularized Medium’s iOS codebase](https://medium.com/medium-eng/how-we-modularized-mediums-ios-codebase-8f8f26965c76)
+- [Lighter View Controller Swift](http://blog.vikingosegundo.de/2014/06/16/lighter-view-controller-swift/)
+- [Improve your iOS Architecture with FlowControllers](http://merowing.info/2016/01/improve-your-ios-architecture-with-flowcontrollers/)
+- [Massive View Controller](http://khanlou.com/2015/12/massive-view-controller/)
+- [Modern application architectures (Reactive programming, MVVM and beyond)](https://slack-files.com/T051G5Y6D-F0HABHKDK-8e9141e191)
+- [“Tree of Models” as an Alternative App Architecture Model](https://yalantis.com/blog/tree-of-models-as-an-alternative-app-architecture-model/) :star:
+- [A composable pattern for pure state machines with effects](https://gist.github.com/andymatuschak/d5f0a8730ad601bcccae97e8398e25b2)
+- [Architectures comparison](https://swifting.io/blog/2016/09/07/architecture-wars-a-new-hope/)
+- [Basecamp 3 for iOS: Hybrid Architecture](https://m.signalvnoise.com/basecamp-3-for-ios-hybrid-architecture-afc071589c25)
+- [Highly maintainable app architecture](http://aplus.rs/2017/highly-maintainable-app-architecture/) :star:
+- [Everyone is an API designer](https://vimeo.com/234961067) :rocket:
+- [Driving view state through data](https://academy.realm.io/posts/try-swift-nyc-2017-matt-gallagher-driving-view-state-through-data/)
+- [Improving Existing Apps with Modern Best Practices](https://developer.apple.com/videos/play/wwdc2016/213/) :rocket:
+- [Platformizing UI code](https://www.youtube.com/watch?v=TCPWckSi0Xs&feature=youtu.be)
+- [The State of Statelessness](https://realm.io/news/pragma-hannes-verlinde-statelessness-react-native/)
+- [Good iOS Application Architecture](https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper) :rocket:
+
+### AppDelegate
+
+- [SERVICE-ORIENTED APPDELEGATE](http://sizeof.io/service-oriented-appdelegate/)
+- [Lighter AppDelegate](http://www.fantageek.com/blog/2015/10/31/lighter-appdelegate/)
+- [Service-oriented AppDelegate](https://medium.com/ios-os-x-development/pluggableapplicationdelegate-e50b2c5d97dd#.scovfjixy)
 
 ### Repos
 
+- [Logician](https://github.com/mdiep/Logician) Logic programming in Swift
+- [modular-architecture](https://github.com/bricepollock/modular-architecture) Examples of iOS Modular Architecture in Swift
+- [Delta](https://github.com/thoughtbot/Delta) Delta takes an app that has custom state management spread throughout all the VCs and simplifies it by providing a simple interface to change state and subscribe to its changes.
+- [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
+- [ENGINEERING THE ARCHITECTURE BEHIND UBER’S NEW RIDER APP](https://eng.uber.com/new-rider-app/)
+
+### Sync
+
+- [Introducing the Realm Mobile Platform: Realtime Sync Plus Fully Open Source Databas](https://realm.io/news/introducing-realm-mobile-platform/)
 - [wire-ios-sync-engine](https://github.com/wireapp/wire-ios-sync-engine) iOS synchronization library for Wire
 
-# Cache
-
-### Posts
+### Cache
 
 - [MVC-RS](https://medium.com/swift-programming/mvc-rs-8780e73e9ff4)
 - [The Missing Light Persistence Layer for Swift](https://medium.com/ios-os-x-development/the-missing-light-persistence-layer-for-swift-35ce75d02d47)
 - [How to Abstract Your Persistence Layer and Migrate to Another One on iOS With JustPersist](http://albertodebortoli.com/blog/2017/03/02/How-to-abstract-your-persistence-layer-and-migrate-to-another-one-on-iOS-with-JustPersist/)
 - [The Flat Cache](http://khanlou.com/2017/10/the-flat-cache/)
-
-### Repos
-
 - [Cache](https://github.com/hyperoslo/Cache) Nothing but Cache
 - [RocketData](https://github.com/linkedin/RocketData)
 - [Managing Consistency of Immutable Models](https://realm.io/news/slug-peter-livesey-managing-consistency-immutable-models/)
@@ -246,22 +229,15 @@ Content
 - [JustPersist](https://github.com/justeat/JustPersist)
 - [Pantry](https://github.com/nickoneill/Pantry)
 
-# Asynchronous Programming
-
-### Posts
+### Asynchronous Programming
 
 - [Comparative Asynchronous Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
 - [Thinking in RxSwift](http://adamborek.com/thinking-rxswift/)
 - [Reducers](http://chris.eidhof.nl/post/reducers/)
-
-### Repos
-
 - [RxSwift](https://github.com/ReactiveX/RxSwift) Reactive Programming in Swift
 - [Operations](https://github.com/danthorpe/Operations) A Swift framework inspired by WWDC 2015 Advanced NSOperations session.
 
-# Navigation
-
-### Posts
+### Navigation
 
 - [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/)
 - [Deep links with no brainer](http://ilya.puchka.me/deeplinks-no-brainer/)
@@ -269,9 +245,6 @@ Content
 - [Improve your iOS Architecture with FlowControllers](http://merowing.info/2016/01/improve-your-ios-architecture-with-flowcontrollers/)
 - [Coordinators Essential tutorial](https://medium.com/blacklane-engineering/coordinators-essential-tutorial-part-i-376c836e9ba7)
 - [MVVM-C A simple way to navigate](http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate/)
-
-### Repos
-
 - [Compass](https://github.com/hyperoslo/Compass) Compass helps you setup a central navigation system for your application 
 
 Licence
