@@ -247,6 +247,7 @@ Content
 - [Coordinators Essential tutorial](https://medium.com/blacklane-engineering/coordinators-essential-tutorial-part-i-376c836e9ba7)
 - [MVVM-C A simple way to navigate](http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate/)
 - [Compass](https://github.com/hyperoslo/Compass) Compass helps you setup a central navigation system for your application 
+- [Deep Linking at Kickstarter](https://talk.objc.io/episodes/S01E49-deep-linking-at-kickstarter)
 
 Licence
 --
