@@ -37,7 +37,7 @@ Content
 - [MVVM-C In Practice](https://www.youtube.com/watch?v=9VojuJpUuE8)
 - [MVVM in Practice - RWDevCon Session](https://www.youtube.com/watch?v=sWx8TtRBOfk)
 - [View Models at Kickstarter ](https://talk.objc.io/episodes/S01E47-view-models-at-kickstarter)
-- [MVVM at Scale: Not so Simple](https://academy.realm.io/posts/try-swift-nyc-2017-nataliya-patsovska-mvvm-at-scale/)
+- [How not to get desperate with MVVM implementation](https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b)
 
 ### Repos
 
