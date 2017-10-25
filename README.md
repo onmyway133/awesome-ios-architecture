@@ -38,6 +38,7 @@ Content
 - [MVVM in Practice - RWDevCon Session](https://www.youtube.com/watch?v=sWx8TtRBOfk)
 - [View Models at Kickstarter ](https://talk.objc.io/episodes/S01E47-view-models-at-kickstarter)
 - [How not to get desperate with MVVM implementation](https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b)
+- [iOS Architecture: A State Container based approach](https://jobandtalent.engineering/ios-architecture-an-state-container-based-approach-4f1a9b00b82e) :rocket:
 
 ### Repos
 
@@ -197,7 +198,6 @@ Content
 - [Platformizing UI code](https://www.youtube.com/watch?v=TCPWckSi0Xs&feature=youtu.be)
 - [The State of Statelessness](https://realm.io/news/pragma-hannes-verlinde-statelessness-react-native/)
 - [Good iOS Application Architecture](https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper) :rocket:
-- [iOS Architecture: A State Container based approach](https://jobandtalent.engineering/ios-architecture-an-state-container-based-approach-4f1a9b00b82e)
 
 ### AppDelegate
 
