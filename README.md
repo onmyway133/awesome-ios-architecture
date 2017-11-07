@@ -208,6 +208,13 @@ Content
 - [Good iOS Application Architecture](https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper) :rocket:
 - [Much ado about iOS app architecture](http://aplus.rs/2017/much-ado-about-ios-app-architecture/)
 
+### Coordinator
+
+- [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/)
+- [Coordinators – Soroush Khanlou - CocoaHeads Stockholm](https://www.youtube.com/watch?v=a1g3k3NObkE)
+- [Passing dependencies through Coordinator chain](http://aplus.rs/2017/passing-dependencies-through-coordinator-chain/)
+- [MVC-C · Injecting Coordinator pattern in UIKit](http://aplus.rs/2017/mvc-c-injecting-coordinator-pattern-in-uikit/)
+
 ### AppDelegate
 
 - [SERVICE-ORIENTED APPDELEGATE](http://sizeof.io/service-oriented-appdelegate/)
