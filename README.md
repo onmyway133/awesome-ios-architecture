@@ -31,6 +31,7 @@ Content
 
 - [Looking at Model-View-Controller in Cocoa](https://www.cocoawithlove.com/blog/mvc-and-cocoa.html)
 - [Do MVC like it’s 1979](https://badootech.badoo.com/do-mvc-like-its-1979-da62304f6568)
+- [A Better MVC, Part 1: The Problems](https://davedelong.com/blog/2017/11/06/a-better-mvc-part-1-the-problems/)
 
 # MVVM
 
@@ -126,6 +127,7 @@ Content
 - [Viper Framework for iOS using Swift v3](https://github.com/ferranabello/Viperit)
 - [VIPER-S: WRITING YOUR OWN ARCHITECTURE AND UNDERSTAND ITS IMPORTANCE (PART 3)](http://www.thinkandbuild.it/viper-s-writing-your-own-architecture-and-understand-its-importance-part-3/)
 - [Facing the VIPER](https://vimeo.com/album/4786409/video/235312913)
+- [Building a Framework with VIPER](https://academy.realm.io/posts/try-swift-nyc-sonam-dhingra-building-viper-framework/)
 
 ### Repos
 
@@ -204,6 +206,7 @@ Content
 - [Platformizing UI code](https://www.youtube.com/watch?v=TCPWckSi0Xs&feature=youtu.be)
 - [The State of Statelessness](https://realm.io/news/pragma-hannes-verlinde-statelessness-react-native/)
 - [Good iOS Application Architecture](https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper) :rocket:
+- [Much ado about iOS app architecture](http://aplus.rs/2017/much-ado-about-ios-app-architecture/)
 
 ### AppDelegate
 
