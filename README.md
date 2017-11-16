@@ -39,11 +39,18 @@ Content
 ### Posts
 
 - [A dumb UI is a good UI: Using MVP in iOS with swift](http://iyadagha.com/using-mvp-ios-swift/)
+- [Going from MVC to MVP on iOS](https://blog.moove-it.com/going-from-mvc-to-mvp-on-ios/)
 
 ### Repos
 
+- [AppDemo](https://github.com/SSamanta/AppDemo)
+- [foodMVP](https://github.com/voghDev/foodMVP)
 - [ios-mvp-clean-architecture](https://github.com/FortechRomania/ios-mvp-clean-architecture)
+- [iOS_MVC_MVP_MVVM_SampleApp](https://github.com/rajagp/iOS_MVC_MVP_MVVM_SampleApp)
 - [MVP-iOS](https://github.com/Quaggie/MVP-iOS)
+- [MVP-iOS](https://github.com/baoshanf/MVP-iOS)
+- [MVPExample](https://github.com/amacou/MVPExample)
+- [MVP](https://github.com/shuilinok/MVP)
 
 # MVVM
 
