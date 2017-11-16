@@ -42,8 +42,8 @@ Content
 
 ### Repos
 
-[ios-mvp-clean-architecture](https://github.com/FortechRomania/ios-mvp-clean-architecture)
-[MVP-iOS](https://github.com/Quaggie/MVP-iOS)
+- [ios-mvp-clean-architecture](https://github.com/FortechRomania/ios-mvp-clean-architecture)
+- [MVP-iOS](https://github.com/Quaggie/MVP-iOS)
 
 # MVVM
 
