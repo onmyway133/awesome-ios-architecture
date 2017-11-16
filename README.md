@@ -16,6 +16,7 @@ Content
 ==
 
 - [MVC](#mvc)
+- [MVP](#mvp)
 - [MVVM](#mvvm)
 - [Clean Architecture](#clean-architecture)
 - [Unidirectional Data Flow](#unidirectional-data-flow)
@@ -32,6 +33,17 @@ Content
 - [Looking at Model-View-Controller in Cocoa](https://www.cocoawithlove.com/blog/mvc-and-cocoa.html)
 - [Do MVC like it’s 1979](https://badootech.badoo.com/do-mvc-like-its-1979-da62304f6568)
 - [A Better MVC, Part 1: The Problems](https://davedelong.com/blog/2017/11/06/a-better-mvc-part-1-the-problems/) :rocket:
+
+# MVP
+
+### Posts
+
+- [A dumb UI is a good UI: Using MVP in iOS with swift](http://iyadagha.com/using-mvp-ios-swift/)
+
+### Repos
+
+[ios-mvp-clean-architecture](https://github.com/FortechRomania/ios-mvp-clean-architecture)
+[MVP-iOS](https://github.com/Quaggie/MVP-iOS)
 
 # MVVM
 
