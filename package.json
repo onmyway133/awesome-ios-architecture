@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/irshadpc/fantastic-ios-architecture.git"
+    "url": "git+https://github.com/onmyway133/fantastic-ios-architecture.git"
   },
   "keywords": [
     "ios-architecture",
@@ -17,9 +17,9 @@
   "author": "onmyway133",
   "license": "The MIT License (MIT)",
   "bugs": {
-    "url": "https://github.com/irshadpc/fantastic-ios-architecture/issues"
+    "url": "https://github.com/onmyway133/fantastic-ios-architecture/issues"
   },
-  "homepage": "https://github.com/irshadpc/fantastic-ios-architecture#readme",
+  "homepage": "https://github.com/onmyway133/fantastic-ios-architecture#readme",
   "dependencies": {
     "remark": "^8.0.0",
     "remark-cli": "^4.0.0",
