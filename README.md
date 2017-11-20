@@ -102,7 +102,6 @@ Content
 - [Turning UIKit Inside Out](https://realm.io/news/altconf-benji-encz-uikit-inside-out-declarative-programming) :star:
 - [App Coordinators and Redux on iOS](http://willowtreeapps.com/ideas/app-coordinators-and-redux-on-ios/)
 - [ReSwift Tutorial: Memory Game App](https://www.raywenderlich.com/155815/reswift-tutorial-memory-game-app)
-- [App Coordinators and Redux on iOS](https://willowtreeapps.com/ideas/app-coordinators-and-redux-on-ios/)
 - [Building a Unidirectional Data Flow App in Swift with Realm](https://realm.io/news/unidirectional-data-flow-in-swift/)
 - [Architecture Thoughts: Migrating Marvel's iOS App to ReSwift ..](https://medium.com/cocoaacademymag/architecture-thoughts-migrating-marvels-ios-app-to-reswift-ef7f20e84e60)
 
