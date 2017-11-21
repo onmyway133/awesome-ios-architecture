@@ -298,6 +298,7 @@ View Interactor Presenter
 - [MVVM-C A simple way to navigate](http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate/)
 - [Compass](https://github.com/hyperoslo/Compass) Compass helps you setup a central navigation system for your application 
 - [Deep Linking at Kickstarter](https://talk.objc.io/episodes/S01E49-deep-linking-at-kickstarter)
+- [One navigator to rule them all - iOS Conf SG 2017](https://www.youtube.com/watch?v=7kchC7OoMHk)
 
 Licence
 --
