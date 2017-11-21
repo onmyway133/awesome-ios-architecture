@@ -27,6 +27,7 @@ Content
 
 
 # MVC
+Model View Controller
 
 ### Posts
 
@@ -36,6 +37,7 @@ Content
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
 
 # MVP
+Model View Presenter
 
 ### Posts
 
@@ -54,6 +56,7 @@ Content
 - [MVP](https://github.com/shuilinok/MVP)
 
 # MVVM
+Model View ViewModel
 
 ### Posts
 
@@ -121,6 +124,7 @@ Content
 - [Suas-iOS](https://github.com/zendesk/Suas-iOS) Unidirectional data flow architecture implementation for iOS, macOS, tvOS and watchOS http://suas.readme.io
 
 # VIPER
+View Interactor Presenter Entity Router
 
 ### Posts
 
@@ -153,6 +157,7 @@ Content
 - [iOSSwiftStarter](https://github.com/RoRoche/iOSSwiftStarter) A sample iOS app written in Swift using the VIPER architecture. 
 
 # VIP
+View Interactor Presenter
 
 ### Posts
 
