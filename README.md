@@ -228,6 +228,7 @@ Content
 - [The State of Statelessness](https://realm.io/news/pragma-hannes-verlinde-statelessness-react-native/)
 - [Good iOS Application Architecture](https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper) :rocket:
 - [Much ado about iOS app architecture](http://aplus.rs/2017/much-ado-about-ios-app-architecture/)
+- [The Presentation Model](https://medium.com/@sandofsky/the-presentation-model-6aeaaab607a0)
 
 ### Coordinator
 
