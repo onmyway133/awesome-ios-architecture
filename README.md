@@ -307,6 +307,7 @@ View Interactor Presenter
 - [When Not to Use an Enum](http://matt.diephouse.com/2017/12/when-not-to-use-an-enum/)
 - [Misusing enums](https://davedelong.com/blog/2017/12/07/misusing-enums/)
 - [Logging in Swift](http://merowing.info/2016/07/logging-in-swift/)
+- [Swift Analytics](http://chris.eidhof.nl/post/swift-analytics/)
 
 Licence
 --
