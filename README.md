@@ -301,6 +301,14 @@ View Interactor Presenter
 - [One navigator to rule them all - iOS Conf SG 2017](https://www.youtube.com/watch?v=7kchC7OoMHk)
 - [URL Routing with Compass](https://github.com/onmyway133/blog/issues/110) :star:
 
+### Analytics
+
+- [Building an enum-based analytics system in Swift](https://www.swiftbysundell.com/posts/building-an-enum-based-analytics-system-in-swift)
+- [When Not to Use an Enum](http://matt.diephouse.com/2017/12/when-not-to-use-an-enum/)
+- [Misusing enums](https://davedelong.com/blog/2017/12/07/misusing-enums/)
+- [Misusing Subclassing](http://khanlou.com/2017/12/misusing-subclassing/)
+- []()
+
 Licence
 --
 This project is released under the MIT license. See LICENSE.md.
