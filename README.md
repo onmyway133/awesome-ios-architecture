@@ -307,7 +307,7 @@ View Interactor Presenter
 - [When Not to Use an Enum](http://matt.diephouse.com/2017/12/when-not-to-use-an-enum/)
 - [Misusing enums](https://davedelong.com/blog/2017/12/07/misusing-enums/)
 - [Misusing Subclassing](http://khanlou.com/2017/12/misusing-subclassing/)
-- []()
+- [Logging in Swift](http://merowing.info/2016/07/logging-in-swift/)
 
 Licence
 --
