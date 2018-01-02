@@ -90,6 +90,7 @@ Model View ViewModel
 
 - [CleanStore](https://github.com/Clean-Swift/CleanStore) A sample iOS app built using the Clean Swift architecture
 - [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) Example of Clean Architecture of iOS app using RxSwift :rocket:
+- [Reminders](https://github.com/tiagomartinho/Reminders) An iOS application written in Swift to demonstrate how to implement a Clean Architecture in iOS
 
 # Unidirectional Data Flow
 
