@@ -109,6 +109,7 @@ Model View ViewModel
 - [ReSwift Tutorial: Memory Game App](https://www.raywenderlich.com/155815/reswift-tutorial-memory-game-app)
 - [Building a Unidirectional Data Flow App in Swift with Realm](https://realm.io/news/unidirectional-data-flow-in-swift/)
 - [Architecture Thoughts: Migrating Marvel's iOS App to ReSwift ..](https://medium.com/cocoaacademymag/architecture-thoughts-migrating-marvels-ios-app-to-reswift-ef7f20e84e60)
+- [Functional architecture for Swift](https://medium.com/@PallasR/functional-architecture-for-swift-dfa8854239cb)
 
 ### Repos
 
@@ -234,8 +235,10 @@ View Interactor Presenter
 - [Platformizing UI code](https://www.youtube.com/watch?v=TCPWckSi0Xs&feature=youtu.be)
 - [The State of Statelessness](https://realm.io/news/pragma-hannes-verlinde-statelessness-react-native/)
 - [Good iOS Application Architecture](https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper) :rocket:
-- [Much ado about iOS app architecture](http://aplus.rs/2017/much-ado-about-ios-app-architecture/)
+- [Much ado about iOS app architecture](http://aplus.rs/2017/much-ado-about-ios-app-architecture/) :star:
 - [The Presentation Model](https://medium.com/@sandofsky/the-presentation-model-6aeaaab607a0)
+- [The New Swipe Right with Swift](http://tech.gotinder.com/the-new-swipe-right-with-swift/)
+- [Zero Knowledge Architectures for Mobile Applications](https://medium.com/@vixentael/zero-knowledge-architectures-for-mobile-applications-b00a231fda75)
 
 ### Coordinator
 
@@ -261,6 +264,7 @@ View Interactor Presenter
 - [Delta](https://github.com/thoughtbot/Delta) Delta takes an app that has custom state management spread throughout all the VCs and simplifies it by providing a simple interface to change state and subscribe to its changes.
 - [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
 - [ENGINEERING THE ARCHITECTURE BEHIND UBER’S NEW RIDER APP](https://eng.uber.com/new-rider-app/)
+- [RIBs](https://github.com/uber/RIBs) Uber's cross-platform mobile architecture framework.
 
 ### Sync
 
