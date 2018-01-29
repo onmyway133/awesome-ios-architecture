@@ -36,6 +36,7 @@ Model View Controller
 - [A Better MVC, Part 1: The Problems](https://davedelong.com/blog/2017/11/06/a-better-mvc-part-1-the-problems/) :rocket:
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
 - [MVC.](http://codeplease.io/2017/11/19/mvc/)
+- [Model-View-Controller without the Controller](https://www.cocoawithlove.com/blog/mvc-without-the-c.html)
 
 # MVP
 Model View Presenter
@@ -240,6 +241,7 @@ View Interactor Presenter
 - [The Presentation Model](https://medium.com/@sandofsky/the-presentation-model-6aeaaab607a0)
 - [The New Swipe Right with Swift](http://tech.gotinder.com/the-new-swipe-right-with-swift/)
 - [Zero Knowledge Architectures for Mobile Applications](https://medium.com/@vixentael/zero-knowledge-architectures-for-mobile-applications-b00a231fda75)
+- [Top-down iOS error architecture](https://medium.com/@londeix/top-down-error-architecture-d8715a28d1ad)
 
 ### Coordinator
 
