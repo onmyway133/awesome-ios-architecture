@@ -312,6 +312,7 @@ View Interactor Presenter
 - [Weavy](https://github.com/twittemb/Weavy) Navigation framework for iOS applications based on a weaving pattern
 - [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern
 - [A Flexible Routing Approach in an iOS App](https://medium.com/rosberryapps/the-flexible-routing-approach-in-an-ios-app-eb4b05aa7f52)
+- [Navigation in Swift](https://www.swiftbysundell.com/posts/navigation-in-swift)
 
 ### Analytics
 
