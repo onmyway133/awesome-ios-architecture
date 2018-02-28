@@ -159,6 +159,7 @@ View Interactor Presenter Entity Router
 ### Repos
 
 - [iOS-Viper-Architecture](https://github.com/MindorksOpenSource/iOS-Viper-Architecture) A detailed sample app that implements VIPER architecture
+- [iOS Viper XCode Templates](https://github.com/infinum/iOS-VIPER-Xcode-Templates) Another detailed sample app that implements VIPER architecture with code generation templates
 - [iOSSwiftStarter](https://github.com/RoRoche/iOSSwiftStarter) A sample iOS app written in Swift using the VIPER architecture. 
 
 # VIP
