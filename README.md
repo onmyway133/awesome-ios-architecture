@@ -217,7 +217,6 @@ View Interactor Presenter
 - [iOS Development: You're Doing It Wrong](http://doing-it-wrong.mikeweller.com/2013/06/ios-app-architecture-and-tdd-1.html)
 - [How to separate view controllers from their view logic](http://jpellat.com/how-to-separate-view-controllers-from-his-view-logic/)
 - [8 Patterns to Help You Destroy Massive View Controller](http://khanlou.com/2014/09/8-patterns-to-help-you-destroy-massive-view-controller/)
-- [API Design](http://mattgemmell.com/api-design/)
 - [Intentions](http://chris.eidhof.nl/posts/intentions.html)
 - [Model-View-ViewModel for iOS](http://www.teehanlax.com/blog/model-view-viewmodel-for-ios/)
 - [Singletons, AppDelegates and top-level data.](http://www.cocoawithlove.com/2008/11/singletons-appdelegates-and-top-level.html)
@@ -245,6 +244,11 @@ View Interactor Presenter
 - [The New Swipe Right with Swift](http://tech.gotinder.com/the-new-swipe-right-with-swift/)
 - [Zero Knowledge Architectures for Mobile Applications](https://medium.com/@vixentael/zero-knowledge-architectures-for-mobile-applications-b00a231fda75)
 - [Top-down iOS error architecture](https://medium.com/@londeix/top-down-error-architecture-d8715a28d1ad)
+
+### API
+
+- [API Design](http://mattgemmell.com/api-design/)
+- [Testable interface design with enums](https://kandelvijaya.com/2018/03/03/testableinterfacedesignwithenums/)
 
 ### Coordinator
 
