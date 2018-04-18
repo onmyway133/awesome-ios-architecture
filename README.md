@@ -244,6 +244,7 @@ View Interactor Presenter
 - [The New Swipe Right with Swift](http://tech.gotinder.com/the-new-swipe-right-with-swift/)
 - [Zero Knowledge Architectures for Mobile Applications](https://medium.com/@vixentael/zero-knowledge-architectures-for-mobile-applications-b00a231fda75)
 - [Top-down iOS error architecture](https://medium.com/@londeix/top-down-error-architecture-d8715a28d1ad)
+- [App Architectures: Remixed](https://skillsmatter.com/skillscasts/11527-app-architectures-remixed)
 
 ### API
 
