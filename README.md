@@ -207,6 +207,7 @@ View Interactor Presenter
 - [ScrollingStackViewController](https://github.com/justeat/ScrollingStackViewController) A view controller that uses root views of child view controllers as views in a UIStackView.
 - [ScrollingStackContainer](https://github.com/malcommac/ScrollingStackContainer) Efficient Scrolling UIStackView in Swift
 - [Flow](https://github.com/malcommac/Flow) A new declarative approach to UITableView
+- [FlowKit](https://github.com/malcommac/FlowKit) Declarative type-safe manager for UITableView & UICollectionView
 - [Static](https://github.com/venmo/Static) Simple static table views for iOS in Swift.
 
 # Misc
