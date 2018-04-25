@@ -39,6 +39,7 @@ Model View Controller
 - [MVC.](http://codeplease.io/2017/11/19/mvc/)
 - [Model-View-Controller without the Controller](https://www.cocoawithlove.com/blog/mvc-without-the-c.html)
 - [Just Controllers](http://khanlou.com/2018/02/just-controllers/)
+- [A Better MVC](https://www.youtube.com/watch?v=YWVzCd5FYbs)
 
 # MVP
 Model View Presenter
