@@ -210,7 +210,8 @@ View Interactor Presenter
 - [Flow](https://github.com/malcommac/Flow) A new declarative approach to UITableView
 - [FlowKit](https://github.com/malcommac/FlowKit) Declarative type-safe manager for UITableView & UICollectionView
 - [Static](https://github.com/venmo/Static) Simple static table views for iOS in Swift.
-
+- [Bento](https://github.com/Babylonpartners/Bento) Swift library for building component-based interfaces on top of UITableView
+ 
 # Misc
 
 ### General
