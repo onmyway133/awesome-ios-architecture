@@ -290,6 +290,7 @@ View Interactor Presenter
 - [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
 - [ENGINEERING THE ARCHITECTURE BEHIND UBER’S NEW RIDER APP](https://eng.uber.com/new-rider-app/)
 - [RIBs](https://github.com/uber/RIBs) Uber's cross-platform mobile architecture framework.
+- [Alicerce](https://github.com/Mindera/Alicerce) A base for iOS Applications by Mindera
 
 ### Sync
 
