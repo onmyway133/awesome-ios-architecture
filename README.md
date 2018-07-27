@@ -217,7 +217,7 @@ View Interactor Presenter
 
 ### General
 
-- [Benchmarking MVC vs MVP vs MVVM in iOS] (https://www.simform.com/mvc-mvp-mvvm-ios-app-development/)
+- [Benchmarking MVC vs MVP vs MVVM in iOS](https://www.simform.com/mvc-mvp-mvvm-ios-app-development/)
 - [iOS Architecture Patterns Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.tliwdfd60) :rocket:
 - [Clean Cocoa](http://www.fantageek.com/blog/2015/12/03/clean-cocoa/) :star:
 - [iOS Development: You're Doing It Wrong](http://doing-it-wrong.mikeweller.com/2013/06/ios-app-architecture-and-tdd-1.html)
