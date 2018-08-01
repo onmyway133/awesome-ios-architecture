@@ -294,6 +294,7 @@ View Interactor Presenter
 - [ENGINEERING THE ARCHITECTURE BEHIND UBER’S NEW RIDER APP](https://eng.uber.com/new-rider-app/)
 - [RIBs](https://github.com/uber/RIBs) Uber's cross-platform mobile architecture framework.
 - [Alicerce](https://github.com/Mindera/Alicerce) A base for iOS Applications by Mindera
+- [Flint](https://github.com/MontanaFlossCo/Flint) The Flint framework for building apps on Apple platforms using Feature Driven Development
 
 ### Sync
 
