@@ -254,6 +254,7 @@ View Interactor Presenter
 - [iOS Application Architecture](https://www.youtube.com/watch?v=PdkWjdKOqfo)
 - [How to move data sources and delegates out of your view controllers](https://www.hackingwithswift.com/articles/86/how-to-move-data-sources-and-delegates-out-of-your-view-controllers)
 - [App Architecture and Object Composition in Swift](https://medium.com/flawless-app-stories/app-architecture-and-object-composition-in-swift-c9101a9e37e3)
+- [Let's Talk Architecture](https://kean.github.io/post/app-architecture)
 
 ### API
 
