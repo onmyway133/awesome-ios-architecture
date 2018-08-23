@@ -262,6 +262,11 @@ View Interactor Presenter
 - [API Design](http://mattgemmell.com/api-design/)
 - [Testable interface design with enums](https://kandelvijaya.com/2018/03/03/testableinterfacedesignwithenums/)
 
+### Refactoring
+
+- [Similar Prefixes](http://khanlou.com/2018/08/similar-prefixes/)
+- [Structuring Swift code](https://www.swiftbysundell.com/posts/structuring-swift-code)
+
 ### Coordinator
 
 - [Coordinators Essential tutorial. Part I](https://medium.com/blacklane-engineering/coordinators-essential-tutorial-part-i-376c836e9ba7)
