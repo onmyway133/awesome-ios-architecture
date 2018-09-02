@@ -129,6 +129,7 @@ Model View ViewModel
 - [RxFeedback](https://github.com/kzaher/RxFeedback) Architecture for RxSwift
 - [tea-in-swift](https://github.com/chriseidhof/tea-in-swift) The Elm Architecture in Swift
 - [Suas-iOS](https://github.com/zendesk/Suas-iOS) Unidirectional data flow architecture implementation for iOS, macOS, tvOS and watchOS http://suas.readme.io
+- [ReactComponentKit](https://github.com/ReactComponentKit/ReactComponentKit) ReactComponentKit is a library for building UIViewController based on Components.
 
 # VIPER
 View Interactor Presenter Entity Router
