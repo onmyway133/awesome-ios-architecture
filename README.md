@@ -115,6 +115,7 @@ Model View ViewModel
 - [Building a Unidirectional Data Flow App in Swift with Realm](https://realm.io/news/unidirectional-data-flow-in-swift/)
 - [Architecture Thoughts: Migrating Marvel's iOS App to ReSwift ..](https://medium.com/cocoaacademymag/architecture-thoughts-migrating-marvels-ios-app-to-reswift-ef7f20e84e60)
 - [Functional architecture for Swift](https://medium.com/@PallasR/functional-architecture-for-swift-dfa8854239cb)
+- [iOS Architecture: Separating logic from effects](https://jobandtalent.engineering/ios-architecture-separating-logic-from-effects-7629cb763352) :star:
 
 ### Repos
 
@@ -258,7 +259,7 @@ View Interactor Presenter
 - [How to move data sources and delegates out of your view controllers](https://www.hackingwithswift.com/articles/86/how-to-move-data-sources-and-delegates-out-of-your-view-controllers)
 - [App Architecture and Object Composition in Swift](https://medium.com/flawless-app-stories/app-architecture-and-object-composition-in-swift-c9101a9e37e3)
 - [Let's Talk Architecture](https://kean.github.io/post/app-architecture)
-- [iOS Architecture: Separating logic from effects](https://jobandtalent.engineering/ios-architecture-separating-logic-from-effects-7629cb763352) :star:
+
 
 ### API
 
