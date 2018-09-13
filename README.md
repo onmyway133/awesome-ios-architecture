@@ -359,6 +359,10 @@ View Interactor Presenter
 - [Logging in Swift](http://merowing.info/2016/07/logging-in-swift/)
 - [Swift Analytics](http://chris.eidhof.nl/post/swift-analytics/)
 
+### Logic vs Effect
+
+- [Value-Oriented Programming](https://matt.diephouse.com/2018/08/value-oriented-programming/)
+
 Licence
 --
 This project is released under the MIT license. See LICENSE.md.
