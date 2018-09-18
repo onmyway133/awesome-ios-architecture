@@ -194,6 +194,7 @@ View Interactor Presenter
 - [Dealing with Complex Table Views in iOS and Keeping Your Sanity](https://medium.cobeisfresh.com/dealing-with-complex-table-views-in-ios-and-keeping-your-sanity-ff5fee1fbb83)
  - [iOS: How to build a Table View with multiple cell types](https://medium.com/@stasost/ios-how-to-build-a-table-view-with-multiple-cell-types-2df91a206429)
  - [Using Dedicated Objects as Delegates & Datasources](https://alisoftware.github.io/architecture/2018/05/20/dedicated-datasources/)
+ - [Reusable data sources in Swift](https://www.swiftbysundell.com/posts/reusable-data-sources-in-swift)
 
 ### Repos
 
