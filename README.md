@@ -217,6 +217,7 @@ View Interactor Presenter
 - [Static](https://github.com/venmo/Static) Simple static table views for iOS in Swift.
 - [Bento](https://github.com/Babylonpartners/Bento) Swift library for building component-based interfaces on top of UITableView
 - [ReactiveLists](https://github.com/plangrid/ReactiveLists) React-like API for UITableView & UICollectionView
+- [LiveCollections](https://github.com/scribd/LiveCollections)
  
 # Misc
 
