@@ -77,6 +77,7 @@ Model View ViewModel
 - [View Models at Kickstarter ](https://talk.objc.io/episodes/S01E47-view-models-at-kickstarter)
 - [How not to get desperate with MVVM implementation](https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b)
 - [iOS Architecture: A State Container based approach](https://jobandtalent.engineering/ios-architecture-an-state-container-based-approach-4f1a9b00b82e) :rocket:
+- [Different flavors of view models in Swift](https://www.swiftbysundell.com/posts/different-flavors-of-view-models-in-swift)
 
 ### Repos
 
