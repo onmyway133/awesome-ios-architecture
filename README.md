@@ -367,6 +367,12 @@ View Interactor Presenter
 
 - [Value-Oriented Programming](https://matt.diephouse.com/2018/08/value-oriented-programming/)
 
+### SDK
+
+- [line-sdk-ios-swift](https://github.com/line/line-sdk-ios-swift) Provides a modern way of implementing LINE APIs
+- [BackchannelSDK-iOS](https://github.com/backchannel/BackchannelSDK-iOS) The official iOS SDK for Backchannel
+- [SpotifyLogin](https://github.com/spotify/SpotifyLogin) Swift framework for authenticating with the Spotify API
+
 Licence
 --
 This project is released under the MIT license. See LICENSE.md.
