@@ -219,6 +219,7 @@ View Interactor Presenter
 - [Bento](https://github.com/Babylonpartners/Bento) Swift library for building component-based interfaces on top of UITableView
 - [ReactiveLists](https://github.com/plangrid/ReactiveLists) React-like API for UITableView & UICollectionView
 - [LiveCollections](https://github.com/scribd/LiveCollections)
+- [AloeStackView](https://github.com/airbnb/AloeStackView) A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout :star:
  
 # Misc
 
