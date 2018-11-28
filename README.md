@@ -264,6 +264,9 @@ View Interactor Presenter
 - [App Architecture and Object Composition in Swift](https://medium.com/flawless-app-stories/app-architecture-and-object-composition-in-swift-c9101a9e37e3)
 - [Let's Talk Architecture](https://kean.github.io/post/app-architecture)
 - [The Lost Art of System Design](https://www.youtube.com/watch?v=ujOc3a7Hav0)
+
+### Dependency Injection
+
 - [Managing objects using Locks & Keys in Swift](https://www.swiftbysundell.com/posts/managing-objects-using-locks-and-keys-in-swift) :star:
 
 ### API
