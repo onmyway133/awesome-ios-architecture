@@ -268,6 +268,7 @@ View Interactor Presenter
 ### Dependency Injection
 
 - [Managing objects using Locks & Keys in Swift](https://www.swiftbysundell.com/posts/managing-objects-using-locks-and-keys-in-swift) :star:
+- [How To Control The World](https://vimeo.com/291588126)
 
 ### API
 
