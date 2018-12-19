@@ -379,6 +379,10 @@ View Interactor Presenter
 - [BackchannelSDK-iOS](https://github.com/backchannel/BackchannelSDK-iOS) The official iOS SDK for Backchannel
 - [SpotifyLogin](https://github.com/spotify/SpotifyLogin) Swift framework for authenticating with the Spotify API
 
+### Functional
+
+- [Proof in Functions](https://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html) :rocket:
+
 Licence
 --
 This project is released under the MIT license. See LICENSE.md.
