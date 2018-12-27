@@ -382,6 +382,7 @@ View Interactor Presenter
 ### Functional
 
 - [Proof in Functions](https://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html) :rocket:
+- [Instance Methods are “Curried” Functions in Swift](https://oleb.net/blog/2014/07/swift-instance-methods-curried-functions/)
 
 ### Types
 
