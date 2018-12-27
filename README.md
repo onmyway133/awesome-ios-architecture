@@ -383,6 +383,12 @@ View Interactor Presenter
 
 - [Proof in Functions](https://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html) :rocket:
 
+### Types
+
+- [Making illegal states unrepresentable](https://oleb.net/blog/2018/03/making-illegal-states-unrepresentable/)
+- [Functional Snippet #13: Phantom Types](https://www.objc.io/blog/2014/12/29/functional-snippet-13-phantom-types/)
+- [Never](https://nshipster.com/never/)
+
 Licence
 --
 This project is released under the MIT license. See LICENSE.md.
