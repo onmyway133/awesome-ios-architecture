@@ -389,6 +389,11 @@ View Interactor Presenter
 - [Functional Snippet #13: Phantom Types](https://www.objc.io/blog/2014/12/29/functional-snippet-13-phantom-types/)
 - [Never](https://nshipster.com/never/)
 
+### Protocols
+
+- [Mixins over Inheritance](https://alisoftware.github.io/swift/protocol/2015/11/08/mixins-over-inheritance/)
+- [Mixins and traits in Swift 2.0](http://machinethink.net/blog/mixins-and-traits-in-swift-2.0/)
+
 Licence
 --
 This project is released under the MIT license. See LICENSE.md.
