@@ -293,6 +293,7 @@ View Interactor Presenter
 - [Coordinators – Soroush Khanlou - CocoaHeads Stockholm](https://www.youtube.com/watch?v=a1g3k3NObkE)
 - [Passing dependencies through Coordinator chain](http://aplus.rs/2017/passing-dependencies-through-coordinator-chain/)
 - [MVC-C · Injecting Coordinator pattern in UIKit](http://aplus.rs/2017/mvc-c-injecting-coordinator-pattern-in-uikit/)
+- [XCoordinator](https://github.com/quickbirdstudios/XCoordinator) Powerful navigation library for iOS based on the coordinator pattern
 
 ### FlowController
 
