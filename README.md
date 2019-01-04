@@ -23,7 +23,7 @@ Content
 - [VIPER](#viper)
 - [VIP](#vip)
 - [Data Source](#data-source)
-- [Misc](#misc)
+- [Best Practices](#best-practices)
 
 
 # MVC
@@ -226,7 +226,7 @@ View Interactor Presenter
 - [LiveCollections](https://github.com/scribd/LiveCollections)
 - [AloeStackView](https://github.com/airbnb/AloeStackView) A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout :star:
  
-# Misc
+# Best Practices
 
 ### General
 
@@ -399,6 +399,10 @@ View Interactor Presenter
 
 - [Mixins over Inheritance](https://alisoftware.github.io/swift/protocol/2015/11/08/mixins-over-inheritance/)
 - [Mixins and traits in Swift 2.0](http://machinethink.net/blog/mixins-and-traits-in-swift-2.0/)
+
+### Code
+
+- [Splash](https://github.com/JohnSundell/Splash) A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun!
 
 Licence
 --
