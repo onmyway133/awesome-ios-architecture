@@ -274,6 +274,7 @@ View Interactor Presenter
 
 - [Managing objects using Locks & Keys in Swift](https://www.swiftbysundell.com/posts/managing-objects-using-locks-and-keys-in-swift) :star:
 - [How To Control The World](https://www.pointfree.co/blog/posts/21-how-to-control-the-world)
+- [Structure and Interpretation of Swift Programs](https://www.youtube.com/watch?v=V-YvI83QdMs)
 
 ### API
 
