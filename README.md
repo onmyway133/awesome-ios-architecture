@@ -405,6 +405,10 @@ View Interactor Presenter
 
 - [Splash](https://github.com/JohnSundell/Splash) A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun!
 
+### Separation of Concerns
+
+- [The trouble with manager objects](https://sandofsky.com/blog/manager-classes.html)
+
 Licence
 --
 This project is released under the MIT license. See LICENSE.md.
