@@ -375,10 +375,6 @@ View Interactor Presenter
 - [Logging in Swift](http://merowing.info/2016/07/logging-in-swift/)
 - [Swift Analytics](http://chris.eidhof.nl/post/swift-analytics/)
 
-### Logic vs Effect
-
-- [Value-Oriented Programming](https://matt.diephouse.com/2018/08/value-oriented-programming/)
-
 ### SDK
 
 - [line-sdk-ios-swift](https://github.com/line/line-sdk-ios-swift) Provides a modern way of implementing LINE APIs
@@ -400,6 +396,8 @@ View Interactor Presenter
 
 - [Mixins over Inheritance](https://alisoftware.github.io/swift/protocol/2015/11/08/mixins-over-inheritance/)
 - [Mixins and traits in Swift 2.0](http://machinethink.net/blog/mixins-and-traits-in-swift-2.0/)
+- [Protocol Oriented Programming is Not a Silver Bullet](http://chris.eidhof.nl/post/protocol-oriented-programming/)
+- [Value-Oriented Programming](https://matt.diephouse.com/2018/08/value-oriented-programming/)
 
 ### Code
 
