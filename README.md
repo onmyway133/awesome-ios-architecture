@@ -286,20 +286,6 @@ View Interactor Presenter
 - [Similar Prefixes](http://khanlou.com/2018/08/similar-prefixes/)
 - [Structuring Swift code](https://www.swiftbysundell.com/posts/structuring-swift-code)
 
-### Coordinator
-
-- [Coordinators Essential tutorial. Part I](https://medium.com/blacklane-engineering/coordinators-essential-tutorial-part-i-376c836e9ba7)
-- [Coordinators Essential tutorial. Part II](https://medium.com/blacklane-engineering/coordinators-essential-tutorial-part-ii-b5ab3eb4a74)
-- [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/)
-- [Coordinators – Soroush Khanlou - CocoaHeads Stockholm](https://www.youtube.com/watch?v=a1g3k3NObkE)
-- [Passing dependencies through Coordinator chain](http://aplus.rs/2017/passing-dependencies-through-coordinator-chain/)
-- [MVC-C · Injecting Coordinator pattern in UIKit](http://aplus.rs/2017/mvc-c-injecting-coordinator-pattern-in-uikit/)
-- [XCoordinator](https://github.com/quickbirdstudios/XCoordinator) Powerful navigation library for iOS based on the coordinator pattern
-
-### FlowController
-
-- [Coordinator and FlowController](https://github.com/onmyway133/blog/issues/106)
-
 ### View and Model
 
 - [View Descriptors](https://152percent.com/blog/2018/4/16/view-descriptors)
@@ -350,7 +336,7 @@ View Interactor Presenter
 - [Operations](https://github.com/danthorpe/Operations) A Swift framework inspired by WWDC 2015 Advanced NSOperations session.
 - [Modern RxSwift Architectures](https://academy.realm.io/posts/try-swift-nyc-2017-krunoslav-zaher-modern-rxswift-architectures/)
 
-### Navigation
+### Navigation/Coordinator/FlowController
 
 - [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/)
 - [Deep links with no brainer](http://ilya.puchka.me/deeplinks-no-brainer/)
@@ -366,6 +352,15 @@ View Interactor Presenter
 - [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern
 - [A Flexible Routing Approach in an iOS App](https://medium.com/rosberryapps/the-flexible-routing-approach-in-an-ios-app-eb4b05aa7f52)
 - [Navigation in Swift](https://www.swiftbysundell.com/posts/navigation-in-swift)
+- [Coordinators Essential tutorial. Part I](https://medium.com/blacklane-engineering/coordinators-essential-tutorial-part-i-376c836e9ba7)
+- [Coordinators Essential tutorial. Part II](https://medium.com/blacklane-engineering/coordinators-essential-tutorial-part-ii-b5ab3eb4a74)
+- [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/)
+- [Coordinators – Soroush Khanlou - CocoaHeads Stockholm](https://www.youtube.com/watch?v=a1g3k3NObkE)
+- [Passing dependencies through Coordinator chain](http://aplus.rs/2017/passing-dependencies-through-coordinator-chain/)
+- [MVC-C · Injecting Coordinator pattern in UIKit](http://aplus.rs/2017/mvc-c-injecting-coordinator-pattern-in-uikit/)
+- [XCoordinator](https://github.com/quickbirdstudios/XCoordinator) Powerful navigation library for iOS based on the coordinator pattern
+- [Controlling Hierachies](https://sandofsky.com/blog/controller-hierarchies.html)
+- [Coordinator and FlowController](https://github.com/onmyway133/blog/issues/106)
 
 ### Analytics
 
