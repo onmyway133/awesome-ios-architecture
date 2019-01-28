@@ -327,6 +327,7 @@ View Interactor Presenter
 - [CTPersistance](https://github.com/casatwy/CTPersistance)
 - [JustPersist](https://github.com/justeat/JustPersist)
 - [Pantry](https://github.com/nickoneill/Pantry)
+- [The Many Offline Options for iOS Apps](https://medium.com/device-blogs/the-many-offline-options-for-ios-apps-2922c9b3bff3)
 
 ### Asynchronous Programming
 
