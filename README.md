@@ -270,6 +270,8 @@ View Interactor Presenter
 - [Let's Talk Architecture](https://kean.github.io/post/app-architecture)
 - [The Lost Art of System Design](https://www.youtube.com/watch?v=ujOc3a7Hav0)
 - [Maintaining architecture in iOS apps](https://www.youtube.com/watch?v=kyOtj16k_lQ)
+- [Four Rules of Simpler iOS Software Design](https://medium.com/flawless-app-stories/four-rules-of-simpler-ios-software-design-c371818d08e0)
+
 
 ### Dependency Injection
 
