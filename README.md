@@ -365,6 +365,7 @@ View Interactor Presenter
 - [XCoordinator](https://github.com/quickbirdstudios/XCoordinator) Powerful navigation library for iOS based on the coordinator pattern
 - [Controlling Hierachies](https://sandofsky.com/blog/controller-hierarchies.html)
 - [Coordinator and FlowController](https://github.com/onmyway133/blog/issues/106)
+- [Advanced coordinators in iOS](https://www.hackingwithswift.com/articles/175/advanced-coordinator-pattern-tutorial-ios)
 
 ### Analytics
 
