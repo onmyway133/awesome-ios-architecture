@@ -314,6 +314,7 @@ View Interactor Presenter
 - [Alicerce](https://github.com/Mindera/Alicerce) A base for iOS Applications by Mindera
 - [Flint](https://github.com/MontanaFlossCo/Flint) The Flint framework for building apps on Apple platforms using Feature Driven Development
 - [ios-architecture](https://github.com/tailec/ios-architecture) A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others
+- [SwiftHub](https://github.com/khoren93/SwiftHub) GitHub iOS client in RxSwift and MVVM-C clean architecture
 
 ### Sync
 
