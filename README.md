@@ -291,6 +291,10 @@ View Interactor Presenter
 - [Similar Prefixes](http://khanlou.com/2018/08/similar-prefixes/)
 - [Structuring Swift code](https://www.swiftbysundell.com/posts/structuring-swift-code)
 
+### Model
+
+- [Structuring model data in Swift](https://www.swiftbysundell.com/posts/structuring-model-data-in-swift)
+
 ### View and Model
 
 - [View Descriptors](https://152percent.com/blog/2018/4/16/view-descriptors)
