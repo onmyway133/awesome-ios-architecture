@@ -389,6 +389,7 @@ View Interactor Presenter
 - [line-sdk-ios-swift](https://github.com/line/line-sdk-ios-swift) Provides a modern way of implementing LINE APIs
 - [BackchannelSDK-iOS](https://github.com/backchannel/BackchannelSDK-iOS) The official iOS SDK for Backchannel
 - [SpotifyLogin](https://github.com/spotify/SpotifyLogin) Swift framework for authenticating with the Spotify API
+- [stripe-ios](https://github.com/stripe/stripe-ios) Stripe iOS SDK
 
 ### Functional
 
