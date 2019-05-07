@@ -401,6 +401,7 @@ View Interactor Presenter
 - [Making illegal states unrepresentable](https://oleb.net/blog/2018/03/making-illegal-states-unrepresentable/)
 - [Functional Snippet #13: Phantom Types](https://www.objc.io/blog/2014/12/29/functional-snippet-13-phantom-types/)
 - [Never](https://nshipster.com/never/)
+- [Pure functions in Swift](https://www.swiftbysundell.com/posts/pure-functions-in-swift)
 
 ### Protocols
 
