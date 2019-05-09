@@ -341,7 +341,7 @@ View Interactor Presenter
 - [The Many Offline Options for iOS Apps](https://medium.com/device-blogs/the-many-offline-options-for-ios-apps-2922c9b3bff3)
 - [How to Design Offline-first Approach in a Mobile App](https://www.netguru.com/blog/how-to-design-offline-first-approach-in-mobile-app)
 
-### Asynchronous Programming
+### Asynchronous/Reactive Programming
 
 - [Comparative Asynchronous Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
 - [Thinking in RxSwift](http://adamborek.com/thinking-rxswift/)
@@ -349,6 +349,7 @@ View Interactor Presenter
 - [RxSwift](https://github.com/ReactiveX/RxSwift) Reactive Programming in Swift
 - [Operations](https://github.com/danthorpe/Operations) A Swift framework inspired by WWDC 2015 Advanced NSOperations session.
 - [Modern RxSwift Architectures](https://academy.realm.io/posts/try-swift-nyc-2017-krunoslav-zaher-modern-rxswift-architectures/)
+- [Architecturing an app with functional reactive programming](https://www.welcometothejungle.co/fr/articles/functional-reactive-programming-architecture)
 
 ### Navigation/Coordinator/FlowController
 
