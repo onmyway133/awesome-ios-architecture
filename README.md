@@ -226,6 +226,7 @@ View Interactor Presenter
 - [LiveCollections](https://github.com/scribd/LiveCollections)
 - [AloeStackView](https://github.com/airbnb/AloeStackView) A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout :star:
 - [Carbon](https://github.com/ra1028/Carbon) A declarative library for building component-based user interfaces in UITableView and UICollectionView
+- [Owl](https://github.com/malcommac/Owl) A declarative type-safe framework for building fast and flexible lists with Tables & Collections
  
 # Best Practices
 
