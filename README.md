@@ -411,6 +411,12 @@ View Interactor Presenter
 - [Mixins and traits in Swift 2.0](http://machinethink.net/blog/mixins-and-traits-in-swift-2.0/)
 - [Protocol Oriented Programming is Not a Silver Bullet](http://chris.eidhof.nl/post/protocol-oriented-programming/)
 - [Value-Oriented Programming](https://matt.diephouse.com/2018/08/value-oriented-programming/)
+- [Beyond Crusty: Real-World Protocols](https://www.dotconferences.com/2016/01/rob-napier-beyond-crusty-real-world-protocols)
+- [A Little Respect for AnySequence](http://robnapier.net/erasure)
+- [Protocols Sidebar I: Protocols Are Nonconformists](http://robnapier.net/nonconformist)
+- [Protocols II: A Mockery of Protocols](http://robnapier.net/a-mockery-of-protocols)
+- [A case of premature abstractions](https://swiftindepth.com/2019-03-24/a-case-of-premature-abstractions)
+- [Protocol-Oriented Library Design](https://www.pointfree.co/episodes/ep37-protocol-oriented-library-design-part-1)
 
 ### Code
 
