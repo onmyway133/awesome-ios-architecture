@@ -280,6 +280,10 @@ View Interactor Presenter
 - [Managing objects using Locks & Keys in Swift](https://www.swiftbysundell.com/posts/managing-objects-using-locks-and-keys-in-swift) :star:
 - [How To Control The World](https://www.pointfree.co/blog/posts/21-how-to-control-the-world)
 - [Structure and Interpretation of Swift Programs](https://www.youtube.com/watch?v=V-YvI83QdMs)
+- [Extracting view controller actions in Swift](https://www.swiftbysundell.com/posts/extracting-view-controller-actions-in-swift)
+- [Behaviors in iOS Apps](https://www.objc.io/issues/13-architecture/behaviors/)
+- [Logic controllers in Swift](https://www.swiftbysundell.com/posts/logic-controllers-in-swift)
+- [Model controllers in Swift](https://www.swiftbysundell.com/posts/model-controllers-in-swift)
 
 ### API
 
