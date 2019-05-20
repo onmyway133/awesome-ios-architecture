@@ -284,6 +284,7 @@ View Interactor Presenter
 - [Behaviors in iOS Apps](https://www.objc.io/issues/13-architecture/behaviors/)
 - [Logic controllers in Swift](https://www.swiftbysundell.com/posts/logic-controllers-in-swift)
 - [Model controllers in Swift](https://www.swiftbysundell.com/posts/model-controllers-in-swift)
+- [Using protocol compositon for dependency injection](http://merowing.info/2017/04/using-protocol-compositon-for-dependency-injection/)
 
 ### API
 
