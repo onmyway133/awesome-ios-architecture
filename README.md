@@ -382,6 +382,7 @@ View Interactor Presenter
 - [Controlling Hierachies](https://sandofsky.com/blog/controller-hierarchies.html)
 - [Coordinator and FlowController](https://github.com/onmyway133/blog/issues/106)
 - [Advanced coordinators in iOS](https://www.hackingwithswift.com/articles/175/advanced-coordinator-pattern-tutorial-ios)
+- [iOS Coordinators: A Storyboard Approach](https://thoughtbot.com/blog/ios-coordinators-a-storyboard-approach)
 
 ### Analytics
 
