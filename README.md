@@ -423,6 +423,7 @@ View Interactor Presenter
 - [Protocols II: A Mockery of Protocols](http://robnapier.net/a-mockery-of-protocols)
 - [A case of premature abstractions](https://swiftindepth.com/2019-03-24/a-case-of-premature-abstractions)
 - [Protocol-Oriented Library Design](https://www.pointfree.co/episodes/ep37-protocol-oriented-library-design-part-1)
+- [Protocol Witnesses - Brandon Williams - App Builders 2019](https://www.youtube.com/watch?v=3BVkbWXcFS4)
 
 ### Code
 
