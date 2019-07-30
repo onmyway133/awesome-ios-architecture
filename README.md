@@ -437,6 +437,10 @@ View Interactor Presenter
 
 - [Defining testing data in Swift](https://www.swiftbysundell.com/posts/defining-testing-data-in-swift)
 
+### Generic
+
+- [Generalizing Swift code](https://www.swiftbysundell.com/posts/generalizing-swift-code)
+
 Licence
 --
 This project is released under the MIT license. See LICENSE.md.
