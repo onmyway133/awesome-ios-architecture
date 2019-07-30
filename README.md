@@ -300,6 +300,7 @@ View Interactor Presenter
 ### Model
 
 - [Structuring model data in Swift](https://www.swiftbysundell.com/posts/structuring-model-data-in-swift)
+- [Utilizing value semantics in Swift](https://www.swiftbysundell.com/posts/utilizing-value-semantics-in-swift)
 
 ### View and Model
 
