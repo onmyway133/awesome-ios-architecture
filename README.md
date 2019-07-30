@@ -433,6 +433,10 @@ View Interactor Presenter
 
 - [The trouble with manager objects](https://sandofsky.com/blog/manager-classes.html)
 
+### Testing
+
+- [Defining testing data in Swift](https://www.swiftbysundell.com/posts/defining-testing-data-in-swift)
+
 Licence
 --
 This project is released under the MIT license. See LICENSE.md.
