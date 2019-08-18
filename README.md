@@ -411,6 +411,7 @@ View Interactor Presenter
 - [Functional Snippet #13: Phantom Types](https://www.objc.io/blog/2014/12/29/functional-snippet-13-phantom-types/)
 - [Never](https://nshipster.com/never/)
 - [Pure functions in Swift](https://www.swiftbysundell.com/posts/pure-functions-in-swift)
+- [Phantom types in Swift](https://www.swiftbysundell.com/posts/phantom-types-in-swift)
 
 ### Protocols
 
