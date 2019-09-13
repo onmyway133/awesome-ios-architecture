@@ -285,6 +285,7 @@ View Interactor Presenter
 - [Logic controllers in Swift](https://www.swiftbysundell.com/posts/logic-controllers-in-swift)
 - [Model controllers in Swift](https://www.swiftbysundell.com/posts/model-controllers-in-swift)
 - [Using protocol compositon for dependency injection](http://merowing.info/2017/04/using-protocol-compositon-for-dependency-injection/)
+- [Cleaning up your dependencies with protocols](https://www.donnywals.com/cleaning-up-your-dependencies-with-protocols/)
 
 ### API
 
