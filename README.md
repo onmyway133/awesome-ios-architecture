@@ -166,6 +166,7 @@ View Interactor Presenter Entity Router
 - [VIPER-S: WRITING YOUR OWN ARCHITECTURE AND UNDERSTAND ITS IMPORTANCE (PART 3)](http://www.thinkandbuild.it/viper-s-writing-your-own-architecture-and-understand-its-importance-part-3/)
 - [Facing the VIPER](https://vimeo.com/album/4786409/video/235312913)
 - [Building a Framework with VIPER](https://academy.realm.io/posts/try-swift-nyc-sonam-dhingra-building-viper-framework/)
+- [Implementing VIPER Architecture Pattern for iOS](https://medium.com/flawless-app-stories/implementing-viper-archticture-pattern-for-ios-d24a6def8ba2)
 
 ### Repos
 
@@ -314,6 +315,7 @@ View Interactor Presenter
 - [SERVICE-ORIENTED APPDELEGATE](http://sizeof.io/service-oriented-appdelegate/)
 - [Lighter AppDelegate](http://www.fantageek.com/blog/2015/10/31/lighter-appdelegate/)
 - [Service-oriented AppDelegate](https://medium.com/ios-os-x-development/pluggableapplicationdelegate-e50b2c5d97dd#.scovfjixy)
+- [](https://medium.com/flawless-app-stories/clean-appdelegate-1903e27f72c1e)
 
 ### Repos
 
