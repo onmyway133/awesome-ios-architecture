@@ -446,6 +446,12 @@ View Interactor Presenter
 
 - [Generalizing Swift code](https://www.swiftbysundell.com/posts/generalizing-swift-code)
 
+### Cross platform
+
+- [LibSlack: the C++ library at the foundation of our client application architecture](https://slack.engineering/libslack-the-c-library-at-the-foundation-of-our-client-application-architecture-97470b5ef9b3)
+- [The (not so) hidden cost of sharing code between iOS and Android](https://blogs.dropbox.com/tech/2019/08/the-not-so-hidden-cost-of-sharing-code-between-ios-and-android/)
+- [Client Consistency at Slack: Beyond Libslack](https://slack.engineering/client-consistency-at-slack-beyond-libslack-c9cfbe778fb7)
+
 Licence
 --
 This project is released under the MIT license. See LICENSE.md.
