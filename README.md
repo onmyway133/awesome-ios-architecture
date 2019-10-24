@@ -335,7 +335,7 @@ View Interactor Presenter
 - [Introducing the Realm Mobile Platform: Realtime Sync Plus Fully Open Source Databas](https://realm.io/news/introducing-realm-mobile-platform/)
 - [wire-ios-sync-engine](https://github.com/wireapp/wire-ios-sync-engine) iOS synchronization library for Wire
 
-### Offline
+### Cache
 
 - [MVC-RS](https://medium.com/swift-programming/mvc-rs-8780e73e9ff4)
 - [The Missing Light Persistence Layer for Swift](https://medium.com/ios-os-x-development/the-missing-light-persistence-layer-for-swift-35ce75d02d47)
@@ -349,6 +349,7 @@ View Interactor Presenter
 - [Pantry](https://github.com/nickoneill/Pantry)
 - [The Many Offline Options for iOS Apps](https://medium.com/device-blogs/the-many-offline-options-for-ios-apps-2922c9b3bff3)
 - [How to Design Offline-first Approach in a Mobile App](https://www.netguru.com/blog/how-to-design-offline-first-approach-in-mobile-app)
+- [Flannel: An Application-Level Edge Cache to Make Slack Scale](https://slack.engineering/flannel-an-application-level-edge-cache-to-make-slack-scale-b8a6400e2f6b)
 
 ### Asynchronous/Reactive Programming
 
