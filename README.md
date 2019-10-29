@@ -293,6 +293,7 @@ View Interactor Presenter
 - [API Design](http://mattgemmell.com/api-design/)
 - [Testable interface design with enums](https://kandelvijaya.com/2018/03/03/testableinterfacedesignwithenums/)
 - [Designing Swift APIs](https://www.swiftbysundell.com/posts/designing-swift-apis)
+- [Designing Accessible APIs](https://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Designing-Accessible-APIs-Dave-DeLong/)
 
 ### Refactoring
 
