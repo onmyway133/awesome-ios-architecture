@@ -287,6 +287,7 @@ View Interactor Presenter
 - [Model controllers in Swift](https://www.swiftbysundell.com/posts/model-controllers-in-swift)
 - [Using protocol compositon for dependency injection](http://merowing.info/2017/04/using-protocol-compositon-for-dependency-injection/)
 - [Cleaning up your dependencies with protocols](https://www.donnywals.com/cleaning-up-your-dependencies-with-protocols/)
+- [Swift Dependency Injection via Property Wrapper](https://basememara.com/swift-dependency-injection-via-property-wrapper/)
 
 ### API
 
@@ -397,6 +398,7 @@ View Interactor Presenter
 - [Misusing enums](https://davedelong.com/blog/2017/12/07/misusing-enums/)
 - [Logging in Swift](http://merowing.info/2016/07/logging-in-swift/)
 - [Swift Analytics](http://chris.eidhof.nl/post/swift-analytics/)
+- [Analytics - How to avoid common mistakes in iOS](https://benoitpasquier.com/common-mistakes-analytics-ios-app/)
 
 ### SDK
 
