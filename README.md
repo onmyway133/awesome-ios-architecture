@@ -363,6 +363,7 @@ View Interactor Presenter
 - [Operations](https://github.com/danthorpe/Operations) A Swift framework inspired by WWDC 2015 Advanced NSOperations session.
 - [Modern RxSwift Architectures](https://academy.realm.io/posts/try-swift-nyc-2017-krunoslav-zaher-modern-rxswift-architectures/)
 - [Architecturing an app with functional reactive programming](https://www.welcometothejungle.co/fr/articles/functional-reactive-programming-architecture)
+- [TheBinderArchitecture](https://github.com/DeclarativeHub/TheBinderArchitecture) A declarative architecture based on bindings
 
 ### Navigation/Coordinator/FlowController
 
