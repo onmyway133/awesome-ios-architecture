@@ -22,6 +22,7 @@ Content
 - [Unidirectional Data Flow](#unidirectional-data-flow)
 - [VIPER](#viper)
 - [VIP](#vip)
+- [SwiftUI](#swiftui)
 - [Data Source](#data-source)
 - [Best Practices](#best-practices)
 
@@ -182,6 +183,15 @@ View Interactor Presenter
 
 - [Architecture Wars – A New Hope](https://swifting.io/blog/2016/09/07/architecture-wars-a-new-hope/)
 - [Introducing Clean Swift Architecture (VIP)](https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf)
+
+# SwiftUI
+
+### Posts
+
+### Repos
+
+- [SwiftUI-Architectures](https://github.com/quickbirdstudios/SwiftUI-Architectures) Three different architectures (Model-View, Redux, MVVM) for using SwiftUI implemented at the example of a chat app
+- [Harvest](https://github.com/inamiy/Harvest) Harvest: Apple's Combine.framework + State Machine, inspired by Elm.
 
 # Data Source
 
