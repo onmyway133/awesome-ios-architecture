@@ -460,6 +460,7 @@ View Interactor Presenter
 - [Defining testing data in Swift](https://www.swiftbysundell.com/posts/defining-testing-data-in-swift)
 - [Time traveling in Swift unit tests](https://www.swiftbysundell.com/articles/time-traveling-in-swift-unit-tests/)
 - [The power of UserDefaults in Swift](https://www.swiftbysundell.com/articles/the-power-of-userdefaults-in-swift/)
+- [Unit testing asynchronous Swift code](https://www.swiftbysundell.com/articles/unit-testing-asynchronous-swift-code/)
 
 ### Generic
 
