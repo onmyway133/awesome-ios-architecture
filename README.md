@@ -266,7 +266,7 @@ View Interactor Presenter
 - [Architectures comparison](https://swifting.io/blog/2016/09/07/architecture-wars-a-new-hope/)
 - [Basecamp 3 for iOS: Hybrid Architecture](https://m.signalvnoise.com/basecamp-3-for-ios-hybrid-architecture-afc071589c25)
 - [Highly maintainable app architecture](http://aplus.rs/2017/highly-maintainable-app-architecture/) :star:
-- [Everyone is an API designer](https://vimeo.com/234961067) :rocket:
+
 - [Driving view state through data](https://academy.realm.io/posts/try-swift-nyc-2017-matt-gallagher-driving-view-state-through-data/)
 - [Improving Existing Apps with Modern Best Practices](https://developer.apple.com/videos/play/wwdc2016/213/) :rocket:
 - [Platformizing UI code](https://www.youtube.com/watch?v=TCPWckSi0Xs&feature=youtu.be)
@@ -287,6 +287,15 @@ View Interactor Presenter
 - [Four Rules of Simpler iOS Software Design](https://medium.com/flawless-app-stories/four-rules-of-simpler-ios-software-design-c371818d08e0)
 - [The Art of Designing Code](https://www.youtube.com/watch?v=_qKlb7MbeKA) :star:
 
+### API Design
+
+- [Everyone is an API designer](https://vimeo.com/234961067) :rocket:
+- [Lightweight API design in Swift](https://www.swiftbysundell.com/articles/lightweight-api-design-in-swift/)
+- [API Design](http://mattgemmell.com/api-design/)
+- [Testable interface design with enums](https://kandelvijaya.com/2018/03/03/testableinterfacedesignwithenums/)
+- [Designing Swift APIs](https://www.swiftbysundell.com/posts/designing-swift-apis)
+- [Designing Accessible APIs](https://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Designing-Accessible-APIs-Dave-DeLong/)
+
 ### Dependency Injection
 
 - [Managing objects using Locks & Keys in Swift](https://www.swiftbysundell.com/posts/managing-objects-using-locks-and-keys-in-swift) :star:
@@ -299,13 +308,6 @@ View Interactor Presenter
 - [Using protocol compositon for dependency injection](http://merowing.info/2017/04/using-protocol-compositon-for-dependency-injection/)
 - [Cleaning up your dependencies with protocols](https://www.donnywals.com/cleaning-up-your-dependencies-with-protocols/)
 - [Swift Dependency Injection via Property Wrapper](https://basememara.com/swift-dependency-injection-via-property-wrapper/)
-
-### API
-
-- [API Design](http://mattgemmell.com/api-design/)
-- [Testable interface design with enums](https://kandelvijaya.com/2018/03/03/testableinterfacedesignwithenums/)
-- [Designing Swift APIs](https://www.swiftbysundell.com/posts/designing-swift-apis)
-- [Designing Accessible APIs](https://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Designing-Accessible-APIs-Dave-DeLong/)
 
 ### Refactoring
 
