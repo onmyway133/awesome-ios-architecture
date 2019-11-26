@@ -458,6 +458,8 @@ View Interactor Presenter
 ### Testing
 
 - [Defining testing data in Swift](https://www.swiftbysundell.com/posts/defining-testing-data-in-swift)
+- [Time traveling in Swift unit tests](https://www.swiftbysundell.com/articles/time-traveling-in-swift-unit-tests/)
+- [The power of UserDefaults in Swift](https://www.swiftbysundell.com/articles/the-power-of-userdefaults-in-swift/)
 
 ### Generic
 
