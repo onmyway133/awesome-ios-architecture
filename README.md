@@ -188,9 +188,10 @@ View Interactor Presenter
 
 ### Posts
 
+- [SwiftUI Architectures: Model-View, Redux & MVVM](https://quickbirdstudios.com/blog/swiftui-architecture-redux-mvvm/)
+
 ### Repos
 
-- [SwiftUI-Architectures](https://github.com/quickbirdstudios/SwiftUI-Architectures) Three different architectures (Model-View, Redux, MVVM) for using SwiftUI implemented at the example of a chat app
 - [Harvest](https://github.com/inamiy/Harvest) Harvest: Apple's Combine.framework + State Machine, inspired by Elm.
 
 # Data Source
