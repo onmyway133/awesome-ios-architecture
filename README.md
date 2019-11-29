@@ -189,6 +189,7 @@ View Interactor Presenter
 ### Posts
 
 - [SwiftUI Architectures: Model-View, Redux & MVVM](https://quickbirdstudios.com/blog/swiftui-architecture-redux-mvvm/)
+- [Building a Scalable SwiftUI Architecture](https://basememara.com/building-scalable-swiftui-architecture-app/)
 
 ### Repos
 
