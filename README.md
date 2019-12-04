@@ -478,6 +478,10 @@ View Interactor Presenter
 - [The (not so) hidden cost of sharing code between iOS and Android](https://blogs.dropbox.com/tech/2019/08/the-not-so-hidden-cost-of-sharing-code-between-ios-and-android/)
 - [Client Consistency at Slack: Beyond Libslack](https://slack.engineering/client-consistency-at-slack-beyond-libslack-c9cfbe778fb7)
 
+### Remote Config / Feature Flagging
+
+- [A Smart Feature Flagging System for iOS](https://albertodebortoli.com/2019/11/26/a-smart-feature-flagging-system-for-ios/)
+
 Licence
 --
 This project is released under the MIT license. See LICENSE.md.
