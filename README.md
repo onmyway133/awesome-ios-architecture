@@ -321,6 +321,7 @@ View Interactor Presenter
 - [Structuring model data in Swift](https://www.swiftbysundell.com/posts/structuring-model-data-in-swift)
 - [Utilizing value semantics in Swift](https://www.swiftbysundell.com/posts/utilizing-value-semantics-in-swift)
 - [Type safe temporary models](https://iankeen.tech/2018/06/05/type-safe-temporary-models/)
+- [Defining testing data in Swift](https://swiftbysundell.com/articles/defining-testing-data-in-swift/)
 
 ### View and Model
 
