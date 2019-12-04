@@ -470,6 +470,7 @@ View Interactor Presenter
 ### Generic
 
 - [Generalizing Swift code](https://www.swiftbysundell.com/posts/generalizing-swift-code)
+- [Alternatives to protocols in Swift](https://www.swiftbysundell.com/articles/alternatives-to-protocols-in-swift/)
 
 ### Cross platform
 
