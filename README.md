@@ -216,6 +216,7 @@ View Interactor Presenter
  - [iOS: How to build a Table View with multiple cell types](https://medium.com/@stasost/ios-how-to-build-a-table-view-with-multiple-cell-types-2df91a206429)
  - [Using Dedicated Objects as Delegates & Datasources](https://alisoftware.github.io/architecture/2018/05/20/dedicated-datasources/)
  - [Reusable data sources in Swift](https://www.swiftbysundell.com/posts/reusable-data-sources-in-swift)
+- [UITableView Datasource with SwiftUI-style syntax](https://medium.com/@_myrddin_/tableview-datasource-with-swiftui-style-syntax-1372b3a04687)
 
 ### Repos
 
@@ -242,6 +243,7 @@ View Interactor Presenter
 - [AloeStackView](https://github.com/airbnb/AloeStackView) A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout :star:
 - [Carbon](https://github.com/ra1028/Carbon) A declarative library for building component-based user interfaces in UITableView and UICollectionView
 - [Owl](https://github.com/malcommac/Owl) A declarative type-safe framework for building fast and flexible lists with Tables & Collections
+- [Collor](https://github.com/voyages-sncf-technologies/Collor) A MVVM data-oriented framework for UICollectionView with great and useful features.
  
 # Best Practices
 
