@@ -330,6 +330,7 @@ View Interactor Presenter
 - [View Descriptors](https://152percent.com/blog/2018/4/16/view-descriptors)
 - [Preventing views from being model aware in Swift](https://www.swiftbysundell.com/posts/preventing-views-from-being-model-aware-in-swift)
 - [UITableViewCell and Model](https://github.com/onmyway133/blog/issues/154)
+- [Building Better Views](https://www.fabisevi.ch/2019/12/26/building-better-views-part-i/)
 
 ### AppDelegate
 
