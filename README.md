@@ -244,6 +244,7 @@ View Interactor Presenter
 - [Carbon](https://github.com/ra1028/Carbon) A declarative library for building component-based user interfaces in UITableView and UICollectionView
 - [Owl](https://github.com/malcommac/Owl) A declarative type-safe framework for building fast and flexible lists with Tables & Collections
 - [Collor](https://github.com/voyages-sncf-technologies/Collor) A MVVM data-oriented framework for UICollectionView with great and useful features.
+- [FunctionalTableData](https://github.com/Shopify/FunctionalTableData) Declarative UITableViewDataSource implementation
  
 # Best Practices
 
