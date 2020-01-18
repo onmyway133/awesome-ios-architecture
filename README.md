@@ -245,6 +245,7 @@ View Interactor Presenter
 - [Owl](https://github.com/malcommac/Owl) A declarative type-safe framework for building fast and flexible lists with Tables & Collections
 - [Collor](https://github.com/voyages-sncf-technologies/Collor) A MVVM data-oriented framework for UICollectionView with great and useful features.
 - [FunctionalTableData](https://github.com/Shopify/FunctionalTableData) Declarative UITableViewDataSource implementation
+- [Upstream](https://github.com/onmyway133/Upstream) ⛲️ Adapted Data Source in Swift and a little bit more :rocket: :rocket:
  
 # Best Practices
 
