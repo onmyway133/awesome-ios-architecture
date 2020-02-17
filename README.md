@@ -246,6 +246,7 @@ View Interactor Presenter
 - [Collor](https://github.com/voyages-sncf-technologies/Collor) A MVVM data-oriented framework for UICollectionView with great and useful features.
 - [FunctionalTableData](https://github.com/Shopify/FunctionalTableData) Declarative UITableViewDataSource implementation
 - [Upstream](https://github.com/onmyway133/Upstream) ⛲️ Adapted Data Source in Swift and a little bit more :rocket: :rocket:
+- [Micro](https://github.com/onmyway133/Micro) Fast diffing and type safe SwiftUI style data source for UICollectionView :rocket: :rocket:
  
 # Best Practices
 
