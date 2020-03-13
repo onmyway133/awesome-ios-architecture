@@ -424,6 +424,7 @@ View Interactor Presenter
 - [Coordinator and FlowController](https://github.com/onmyway133/blog/issues/106)
 - [Advanced coordinators in iOS](https://www.hackingwithswift.com/articles/175/advanced-coordinator-pattern-tutorial-ios)
 - [iOS Coordinators: A Storyboard Approach](https://thoughtbot.com/blog/ios-coordinators-a-storyboard-approach)
+- [The Navigator](https://jobandtalent.engineering/the-navigator-420b24fc57da)
 
 ### Analytics
 
