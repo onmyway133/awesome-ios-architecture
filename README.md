@@ -7,7 +7,7 @@
 
 ❤️❤️😇😍🤘❤️❤️
 
-# 𝙛𝙖𝙣𝙩𝙖𝙨𝙩𝙞𝙘 𝙞𝙤𝙨 𝙖𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚
+# awesome 𝙞𝙤𝙨 𝙖𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Better ways to structure apps
 
 ![](Screenshots/Banner.png)
