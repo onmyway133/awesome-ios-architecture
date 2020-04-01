@@ -1,3 +1,5 @@
+# awesome iOS architecture [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 ❤️ Support my app ❤️ 
 
 - [Push Hero - pure Swift native macOS application to test push notifications](https://www.producthunt.com/posts/push-hero-2)
@@ -7,7 +9,6 @@
 
 ❤️❤️😇😍🤘❤️❤️
 
-# awesome 𝙞𝙤𝙨 𝙖𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Better ways to structure apps
 
 ![](Screenshots/Banner.png)
