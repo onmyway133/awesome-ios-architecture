@@ -306,6 +306,7 @@ View Interactor Presenter
 - [Maintaining architecture in iOS apps](https://www.youtube.com/watch?v=kyOtj16k_lQ)
 - [Four Rules of Simpler iOS Software Design](https://medium.com/flawless-app-stories/four-rules-of-simpler-ios-software-design-c371818d08e0)
 - [The Art of Designing Code](https://www.youtube.com/watch?v=_qKlb7MbeKA) :star:
+- [Why UI Design matters](https://www.scnsoft.com/services/ui-design)
 
 ### API Design
 
