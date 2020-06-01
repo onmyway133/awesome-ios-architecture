@@ -29,7 +29,7 @@ Content
 - [MVC](#mvc)
 - [MVP](#mvp)
 - [MVVM](#mvvm)
-- [Composable Archiecture](#composable-archiecture)
+- [Composable Archiecture](#composable-architecture)
 - [Clean Architecture](#clean-architecture)
 - [Unidirectional Data Flow](#unidirectional-data-flow)
 - [VIPER](#viper)
