@@ -211,6 +211,7 @@ View Interactor Presenter
 - [SwiftUI Architectures: Model-View, Redux & MVVM](https://quickbirdstudios.com/blog/swiftui-architecture-redux-mvvm/)
 - [Building a Scalable SwiftUI Architecture](https://basememara.com/building-scalable-swiftui-architecture-app/)
 - [SwiftUI and State Management](https://www.pointfree.co/episodes/ep65-swiftui-and-state-management-part-1)
+- [Building complex modular architectures with SwiftUI, Combine and Swift Package Manager (SPM)](https://medium.com/cristian-ortega/modular-architectures-swiftui-combine-swift-package-manager-80820b4ff463)
 
 ### Repos
 
