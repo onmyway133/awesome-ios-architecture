@@ -104,6 +104,7 @@ Model View ViewModel
 - [kickstarter vm structure](https://github.com/kickstarter/native-docs/blob/master/vm-structure.md) Rx input and output
 - [Coordinator-MVVM-Rx-Example](https://github.com/uptechteam/Coordinator-MVVM-Rx-Example) Example of MVVM-C architecture implemented with RxSwift
 - [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) iOS framework that helps you implement Model-View-ViewModel-Coordinator architecture.
+- [ModernMVVM](https://github.com/V8tr/ModernMVVM) - A movie iOS app built with the MVVM architecture, Combine and SwiftUI frameworks
 
 # Composable Architecture
 
