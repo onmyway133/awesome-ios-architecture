@@ -269,6 +269,7 @@ View Interactor Presenter
 - [FunctionalTableData](https://github.com/Shopify/FunctionalTableData) Declarative UITableViewDataSource implementation
 - [Upstream](https://github.com/onmyway133/Upstream) ⛲️ Adapted Data Source in Swift and a little bit more :rocket: :rocket:
 - [Micro](https://github.com/onmyway133/Micro) Fast diffing and type safe SwiftUI style data source for UICollectionView :rocket: :rocket:
+- [Epoxy](https://github.com/airbnb/epoxy-ios) - Epoxy is a suite of declarative UI APIs for building UIKit applications in Swift
  
 # Best Practices
 
