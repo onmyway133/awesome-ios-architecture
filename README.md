@@ -215,6 +215,7 @@ View Interactor Presenter
 ### Repos
 
 - [Harvest](https://github.com/inamiy/Harvest) Harvest: Apple's Combine.framework + State Machine, inspired by Elm.
+- [Stinsen](https://github.com/rundfunk47/stinsen) Coordinators in SwiftUI. Simple, powerful and elegant.
 
 # Data Source
 
