@@ -160,6 +160,11 @@ Model View ViewModel
 - [tea-in-swift](https://github.com/chriseidhof/tea-in-swift) The Elm Architecture in Swift
 - [Suas-iOS](https://github.com/zendesk/Suas-iOS) Unidirectional data flow architecture implementation for iOS, macOS, tvOS and watchOS http://suas.readme.io
 - [ReactComponentKit](https://github.com/ReactComponentKit/ReactComponentKit) ReactComponentKit is a library for building UIViewController based on Components.
+- [Highway](https://github.com/cooler333/Highway) Fast and simple multi-store Redux-like architecture for iOS/OSX applications
+- [Mobius.swift](https://github.com/spotify/Mobius.swift) A functional reactive framework for managing state evolution and side-effects from Uber
+- [ReCombine](https://github.com/ReCombine/ReCombine) A Swift Redux library utilizing Apple's Combine Framework
+- [SwiftRex](https://github.com/SwiftRex/SwiftRex) Swift + Redux + (Combine|RxSwift|ReactiveSwift) -> SwiftRex
+- [tempura-swift](https://github.com/BendingSpoons/tempura-swift) A holistic approach to iOS development, inspired by Redux and MVVM
 
 # VIPER
 View Interactor Presenter Entity Router
