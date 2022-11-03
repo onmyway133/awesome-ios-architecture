@@ -165,6 +165,7 @@ Model View ViewModel
 - [ReCombine](https://github.com/ReCombine/ReCombine) A Swift Redux library utilizing Apple's Combine Framework
 - [SwiftRex](https://github.com/SwiftRex/SwiftRex) Swift + Redux + (Combine|RxSwift|ReactiveSwift) -> SwiftRex
 - [tempura-swift](https://github.com/BendingSpoons/tempura-swift) A holistic approach to iOS development, inspired by Redux and MVVM
+- [OneWay](https://github.com/DevYeom/OneWay) A Swift library for state management with unidirectional data flow.
 
 # VIPER
 View Interactor Presenter Entity Router
